@@ -8,8 +8,8 @@
 ## Deskripsi Singkat
 Project ini mensimulasikan lintasan gerak peluru (projectile motion) yang dipengaruhi oleh
 gaya hambatan udara. Tidak seperti gerak peluru ideal tanpa hambatan, gaya drag menyebabkan
-peluru kehilangan energi sehingga lintasannya menjadi lebih pendek dan melengkung secara non-linear.
-Simulasi dilakukan secara numerik menggunakan metode langkah-waktu (time stepping).
+objek kehilangan energi sehingga lintasannya menjadi lebih pendek dan melengkung secara non-linear.
+Simulasi dilakukan secara numerik menggunakan metode time-stepping.
 
 ## Tujuan
 1. Memahami pengaruh gaya hambatan udara terhadap gerak peluru.
