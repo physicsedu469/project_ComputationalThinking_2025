@@ -3,28 +3,34 @@
 ## Identitas
 - Nama  : Contoh Project
 - NIM   : 00000000
-- Topik : Fourier Series – Square Wave Approximation
+- Topik : Simulasi Gerak Peluru dengan Hambatan Udara
 
 ## Deskripsi Singkat
-Project ini mensimulasikan pembentukan gelombang kotak (square wave) menggunakan deret Fourier.
-Pada gelombang kotak, hanya komponen harmonik ganjil yang berkontribusi. Dengan menambah jumlah
-harmonik, bentuk gelombang semakin mendekati gelombang kotak ideal. Simulasi ini membantu mahasiswa
-memahami bagaimana frekuensi-frekuensi harmonik dan koefisien Fourier membentuk sinyal kompleks.
+Project ini mensimulasikan lintasan gerak peluru (projectile motion) yang dipengaruhi oleh
+gaya hambatan udara. Tidak seperti gerak peluru ideal tanpa hambatan, gaya drag menyebabkan
+peluru kehilangan energi sehingga lintasannya menjadi lebih pendek dan melengkung secara non-linear.
+Simulasi dilakukan secara numerik menggunakan metode langkah-waktu (time stepping).
 
 ## Tujuan
-1. Mengimplementasikan deret Fourier secara komputasional.
-2. Menganalisis pengaruh jumlah harmonik terhadap bentuk gelombang.
-3. Menampilkan hasil visualisasi time-domain.
+1. Memahami pengaruh gaya hambatan udara terhadap gerak peluru.
+2. Mengimplementasikan model fisika ke dalam perhitungan numerik.
+3. Menampilkan grafik lintasan peluru secara komputasi.
+4. Melatih keterampilan penggunaan Python/Jupyter Notebook dalam fisika komputasi.
 
 ## File dalam Folder
-- `square_wave.py` → kode Python utama.
-- `square_wave.ipynb` → versi notebook yang disertai penjelasan.
-- `plot_squarewave.png` → hasil visualisasi.
-- `README.md` → dokumen penjelasan project.
+- `Gerak_Peluru_dengan_hambatan_udara.ipynb` → notebook berisi simulasi lengkap.
+- `gerak_peluru_drag.py` (opsional) → versi Python script.
+- `plot_trajectory.png` → grafik lintasan peluru hasil simulasi.
+- `README.md` → penjelasan project.
+
+## Penjelasan Fisis Singkat
+Gaya hambatan udara dimodelkan sebagai:
+
+$\vec{F}_d = -k\vec{v} $
+
+yang menyebabkan perlambatan pada arah kecepatan. Persamaan gerak diselesaikan secara numerik
+untuk memperoleh lintasan (trajectory) peluru.
 
 ## Cara Menjalankan
-1. Pastikan Python dan library `numpy` & `matplotlib` sudah terinstal.
-2. Jalankan:
-
-   ```bash
-   python square_wave.py
+1. Instal Python + matplotlib + numpy.
+2. Jalankan notebook:
