@@ -1,4 +1,4 @@
-# Simulasi Fourier Series untuk Gelombang Kotak
+# Simulasi Gerak Peluru dengan Hambatan Udara
 
 ## Identitas
 - Nama  : Contoh Project
@@ -34,3 +34,23 @@ untuk memperoleh lintasan (trajectory) peluru.
 ## Cara Menjalankan
 1. Instal Python + matplotlib + numpy.
 2. Jalankan notebook:
+
+3. ## ▶️ Jalankan di Google Colab
+
+Klik tombol berikut untuk membuka notebook dan menjalankannya secara interaktif:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/physicsedu469/project_ComputationalThinking_2025/blob/main/00_Ani_xxxx_Contoh/Gerak_Peluru_dengan_hambatan_udara.ipynb))
+
+## 📘 Cara Menggunakan File Ini
+1. Klik tombol **Open in Colab** di atas.  
+2. Notebook akan terbuka di Google Colab.  
+3. Jalankan sel-sel secara berurutan untuk melihat simulasi.  
+4. Anda dapat mengubah parameter (kecepatan awal, sudut tembak, koefisien drag) dan mengamati perubahan lintasan.
+
+---
+
+## 📊 Hasil Output
+Notebook akan menampilkan:
+- Grafik lintasan peluru dengan hambatan udara.  
+- Perbandingan antara gerak ideal (tanpa hambatan) dan gerak dengan drag.  
+- Variasi lintasan berdasarkan sudut tembak dan koefisien drag.
