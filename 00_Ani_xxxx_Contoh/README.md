@@ -19,8 +19,6 @@ Simulasi dilakukan secara numerik menggunakan metode langkah-waktu (time steppin
 
 ## File dalam Folder
 - `Gerak_Peluru_dengan_hambatan_udara.ipynb` → notebook berisi simulasi lengkap.
-- `gerak_peluru_drag.py` (opsional) → versi Python script.
-- `plot_trajectory.png` → grafik lintasan peluru hasil simulasi.
 - `README.md` → penjelasan project.
 
 ## Penjelasan Fisis Singkat
@@ -31,17 +29,14 @@ $\vec{F}_d = -k\vec{v} $
 yang menyebabkan perlambatan pada arah kecepatan. Persamaan gerak diselesaikan secara numerik
 untuk memperoleh lintasan (trajectory) peluru.
 
-## Cara Menjalankan
-1. Instal Python + matplotlib + numpy.
-2. Jalankan notebook:
 
-3. ## ▶️ Jalankan di Google Colab
+## Jalankan di Google Colab
 
 Klik tombol berikut untuk membuka notebook dan menjalankannya secara interaktif:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/physicsedu469/project_ComputationalThinking_2025/blob/main/00_Ani_xxxx_Contoh/Gerak_Peluru_dengan_hambatan_udara.ipynb))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/physicsedu469/project_ComputationalThinking_2025/blob/main/00_Ani_xxxx_Contoh/Gerak_Peluru_dengan_hambatan_udara.ipynb)
 
-## 📘 Cara Menggunakan File Ini
+## Cara Menggunakan File Ini
 1. Klik tombol **Open in Colab** di atas.  
 2. Notebook akan terbuka di Google Colab.  
 3. Jalankan sel-sel secara berurutan untuk melihat simulasi.  
@@ -49,7 +44,7 @@ Klik tombol berikut untuk membuka notebook dan menjalankannya secara interaktif:
 
 ---
 
-## 📊 Hasil Output
+## Hasil Output
 Notebook akan menampilkan:
 - Grafik lintasan peluru dengan hambatan udara.  
 - Perbandingan antara gerak ideal (tanpa hambatan) dan gerak dengan drag.  
