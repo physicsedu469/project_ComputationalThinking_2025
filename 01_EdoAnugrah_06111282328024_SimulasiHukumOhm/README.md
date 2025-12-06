@@ -35,7 +35,7 @@ $\frac{1}{R_{\text{total}}} = \sum_{i=1}^{n} \frac{1}{R_i}$
 
 ## Cara Menjalankan File .ipynb di google Colab
 1. Klik tombol **Open in Colab** berikut.
-   [![Open In Colab](https://colab.research.google.com/drive/1Ixu1jcfboAXXDEUj_ncevEj4JlvVLAzr?usp=sharing)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
 3. Notebook akan terbuka di Google Colab.  
 4. Jalankan sel-sel secara berurutan untuk melihat simulasi.  
 5. Masukkan nilai resistor, tegangan sumber, dan jenis rangkaian sesuai kebutuhan.
