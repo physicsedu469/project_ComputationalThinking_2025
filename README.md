@@ -7,5 +7,5 @@ Struktur folder:
 
 Aturan pengumpulan:
 1. Buat folder dengan format di atas.
-2. Masukkan semua file project (kode, data, laporan singkat).
-3. Commit dengan pesan: "Tambah project Nama_NIM".
+2. Masukkan semua file project (README.md dan file ipynb).
+
