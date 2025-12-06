@@ -29,20 +29,13 @@ $\vec{F}_d = -k\vec{v} $
 yang menyebabkan perlambatan pada arah kecepatan. Persamaan gerak diselesaikan secara numerik
 untuk memperoleh lintasan (trajectory) peluru.
 
+## Cara Menjalankan File .ipynb di google Colab
+1. Klik tombol **Open in Colab** berikut.
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/physicsedu469/project_ComputationalThinking_2025/blob/main/00_Ani_xxxx_Contoh/Gerak_Peluru_dengan_hambatan_udara.ipynb)
+3. Notebook akan terbuka di Google Colab.  
+4. Jalankan sel-sel secara berurutan untuk melihat simulasi.  
+5. Anda dapat mengubah parameter (kecepatan awal, sudut tembak, koefisien drag) dan mengamati perubahan lintasan.
 
-## Jalankan di Google Colab
-
-Klik tombol berikut untuk membuka notebook dan menjalankannya secara interaktif:
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/physicsedu469/project_ComputationalThinking_2025/blob/main/00_Ani_xxxx_Contoh/Gerak_Peluru_dengan_hambatan_udara.ipynb)
-
-## Cara Menggunakan File Ini
-1. Klik tombol **Open in Colab** di atas.  
-2. Notebook akan terbuka di Google Colab.  
-3. Jalankan sel-sel secara berurutan untuk melihat simulasi.  
-4. Anda dapat mengubah parameter (kecepatan awal, sudut tembak, koefisien drag) dan mengamati perubahan lintasan.
-
----
 
 ## Hasil Output
 Notebook akan menampilkan:
