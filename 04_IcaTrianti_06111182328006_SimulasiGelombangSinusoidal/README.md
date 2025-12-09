@@ -7,13 +7,10 @@
 - Topik : Simulasi Gelombang Sinusoidal Tiga Fasa
 
 ## Deskripsi Singkat
-Project ini mensimulasikan gelombang sinusoidal tiga fasa yang berubah terhadap waktu. Berbeda dengan gelombang statis, gelombang sinusoidal dinamis memiliki amplitudo, frekuensi, dan fase yang memengaruhi bentuk osilasinya sehingga menghasilkan pola naik–turun secara 
-berulang. 
+Project ini mensimulasikan gelombang sinusoidal tiga fasa yang berubah terhadap waktu. Gelombang sinusoidal memiliki amplitudo, frekuensi, dan fase yang memengaruhi bentuk osilasinya sehingga menghasilkan pola naik–turun secara berulang. 
 
 ## Tujuan
-1. Memahami karakteristik gelombang sinusoidal tiga fasa yang berubah terhadap waktu serta
-2. membandingkan bentuk gelombang berdasarkan variasi amplitudo, frekuensi, dan fase.
-3. Menampilkan grafik osilasi gelombang secara komputasi untuk mengamati perubahan nilai terhadap waktu.
+Memahami karakteristik gelombang sinusoidal tiga fasa yang berubah terhadap waktu. Dengan menggunakan pendekatan numerik yang memungkin untuk melihat bentuk gelombang berdasarkan variasi amplitudo, frekuensi, dan fase.
 
 ## File dalam Folder
 - `Gelombang_Sinusoidal.ipynb` → notebook berisi simulasi lengkap.
