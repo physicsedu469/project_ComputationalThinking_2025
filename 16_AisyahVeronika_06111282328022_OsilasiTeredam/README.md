@@ -39,7 +39,7 @@ sehingga pengaruh gaya redaman terhadap perubahan amplitudo simpangan dapat diam
 
 ## Cara Menjalankan File .ipynb di google Colab
 1. Klik tombol **Open in Colab** berikut.
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/physicsedu469/project_ComputationalThinking_2025/blob/main/16_AisyahVeronika_06111282328022_OsilasiTeredam_drag/Simulasi_Gerak_Osilasi_Teredam_drag.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aisyahvrnka/project_ComputationalThinking_2025/blob/main/16_AisyahVeronika_06111282328022_OsilasiTeredam/Simulasi_Gerak_Osilasi_Teredam.ipynb)
 3. Notebook akan terbuka di Google Colab.  
 4. Jalankan sel-sel secara berurutan untuk melihat simulasi.  
 5. Anda dapat mengubah parameter (massa, konstanta pegas, koefisien redaman, kondisi awal) untuk melihat perubahan grafik.
