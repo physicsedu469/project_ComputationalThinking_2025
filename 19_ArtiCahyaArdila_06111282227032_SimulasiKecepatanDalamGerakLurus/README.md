@@ -35,7 +35,7 @@ Kecepatan menyatakan seberapa cepat posisi benda berubah terhadap waktu dan diru
 
    $v(t)=v_0+at$
 
-   $s(t)=v-0t+\frac{1}{2}at^2$
+   $s(t)=v_0t+\frac{1}{2}at^2$
 
 ## Cara Menjalankan File .ipynb di google Colab
 1. Klik tombol *Open in Colab* berikut.
