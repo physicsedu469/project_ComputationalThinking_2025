@@ -23,6 +23,7 @@ Simulasi ini memungkinkan kita mengamati bagaimana gelombang yang diberikan pada
 
 ## Penjelasan Fisis Singkat
 **1. Persamaan Dasar**
+
 Model akustik linier dibangun dari dua hukum fluida:
 
 a. Persamaan momentum (Euler linier)
