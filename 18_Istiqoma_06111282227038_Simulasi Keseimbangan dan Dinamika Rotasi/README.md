@@ -7,13 +7,21 @@
 
 ## Deskripsi Singkat
 Dinamika Rotasi adalah ilmu yang mempelajari tentang pergerakan benda yang berputar pada porosnya atau titik tumpunya.Dinamika Rotasi ini dipengaruhi oleh beberapa hal diantaranya yaitu massa benda,gaya,kecepatan,percepatan,torsi dan masih banyak lagi.Sebenarnya,benda yang bergerak secara berotasi akan menggunakan konsep hukum II Newton (ΣF=m.a),namun karena benda berotasi pada porosnya dan dipengaruhi oleh torsi,maka diberlakukan rumus:
+
 Στ = I. α
+
 Keterangan:
+
 ΣF : Resultan gaya (N)
+
 m : Massa/ukuran kelembaman (kg)
+
 a : Percepatan (m/s2)
+
 Στ : Momen torsi (Nm)
+
 I : Momen inersia (kgm2)
+
 α : Percepatan sudut (rad/s)
 
 Benda tegar adalah benda yang tidak mengalami perubahan bentuk jika diberi gaya F tertentu pada benda tersebut. Hal ini karena benda tegar memiliki banyak partikel yang mengaitkan satu sama lain dan membentuk sebuah ukuran tertentu.Maka dalam hal ini, keseimbangan benda tegar berkaitan dengan Hukum Newton I dengan menggunakan konsep ΣF=0 dan Στ=0 atau keseimbangan translasi. Jadi, kesetimbangan benda tegar adalah ketika benda dinilai sebagai
@@ -47,5 +55,9 @@ pada salah satu bagian dari benda tersebut.
 5. Anda dapat mengubah parameter engubah parameter (gaya besar, posisi gaya kerja terhadap poros, momen inersia, atau kondisi awal rotasi) dan mengamati bagaimana torsi mempengaruhi sudut percepatan, kecepatan sudut, serta tercapainya keseimbangan rotasi.
 
 ## Hasil Output
-Notebook akan menampilkan:
--
+
+Perhitungan torsi, momen gaya, dan momen inersia pada berbagai sistem rotasi sederhana.
+Simulasi dan grafik hubungan antara torsi dan percepatan sudut sesuai Hukum II Newton untuk rotasi.
+Grafik perbandingan kondisi seimbang dan tidak seimbang pada benda tegar (∑τ = 0 vs ∑τ ≠ 0).
+
+
