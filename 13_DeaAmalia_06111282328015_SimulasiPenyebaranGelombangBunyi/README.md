@@ -84,7 +84,7 @@ $$\lambda = \frac{c \, \Delta t}{h}$$
 1. Klik tombol *Open in Colab* berikut.
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/physicsedu469/project_ComputationalThinking_2025/blob/main/13_DeaAmalia_06111282328015_SimulasiPenyebaranGelombangBunyi/SimulasiPenyebaranGelombangBunyi.ipynb)
 4. Jalankan sel-sel secara berurutan untuk melihat simulasi.  
-5. Anda dapat mengubah parameter (kecepatan awal, sudut tembak, koefisien drag) dan mengamati perubahan lintasan.
+5. Anda dapat mengubah parameter (Anda dapat mengubah parameter : kecepatan suara $c$ ,jarak grid $h$, langkah waktu, ukuran domain (Nx, Ny), 
 
 
 ## Hasil Output
