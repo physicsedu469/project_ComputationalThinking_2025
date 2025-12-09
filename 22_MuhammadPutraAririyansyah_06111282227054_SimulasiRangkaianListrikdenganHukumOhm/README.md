@@ -15,7 +15,7 @@ Project ini mensimulasikan hubungan antara tegangan, arus, dan hambatan pada ran
 4. Melatih keterampilan penggunaan Python/Jupyter Notebook dalam analisis rangkaian listrik secara komputasional.
 
 ## File dalam Folder
-- `Proyek_UAS_Berpikir_Komputasii_Muhammad_Putra_Aririyansyah_06111282227054.ipynb` → notebook berisi simulasi lengkap.
+- `Simulasi_Rangkaian_Listrik_dengan_Hukum_Ohm.ipynb` → notebook berisi simulasi lengkap.
 - `README.md` → penjelasan project.
 
 ## Penjelasan Fisis Singkat
@@ -27,7 +27,7 @@ $V = I . R$
 
 ## Cara Menjalankan File .ipynb di google Colab
 1. Klik tombol **Open in Colab** berikut.
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iteng744/project_ComputationalThinking_2025/blob/main/22_MuhammadPutraAririyansyah_06111282227054_SimulasiRangkaianListrikdenganHukumOhm/Simulasi_Rangkaian_Listrik_dengan_Hukum_Ohm_drag.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iteng744/project_ComputationalThinking_2025/blob/main/22_MuhammadPutraAririyansyah_06111282227054_SimulasiRangkaianListrikdenganHukumOhm/Simulasi_Rangkaian_Listrik_dengan_Hukum_Ohm.ipynb)
 3. Notebook akan terbuka di Google Colab.  
 4. Jalankan sel-sel secara berurutan untuk melihat simulasi.  
 5. Anda dapat mengubah parameter (kecepatan awal, sudut tembak, koefisien drag) dan mengamati perubahan lintasan.
