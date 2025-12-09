@@ -1,5 +1,4 @@
 # Simulasi Hukum II Newton
-# Simulasi Percepatan Benda pada Permukaan 
 
 ## Identitas
 - Nama  : Fera Livia Melinda
@@ -7,28 +6,26 @@
 - Topik : Simulasi Gerak Hukum II Newton
 
 ## Deskripsi Singkat
-Project ini mensimulasikan lintasan gerak peluru (projectile motion) yang dipengaruhi oleh
-gaya hambatan udara. Tidak seperti gerak peluru ideal tanpa hambatan, gaya drag menyebabkan
-objek kehilangan energi sehingga lintasannya menjadi lebih pendek dan melengkung secara non-linear.
-Simulasi dilakukan secara numerik menggunakan metode time-stepping.
+Proyek ini membahas penerapan Hukum II Newton (F = m·a) dalam menganalisis gerak benda dengan percepatan konstan. Melalui simulasi komputasi, hubungan antara gaya, massa, percepatan, kecepatan, dan posisi divisualisasikan secara dinamis. simulasi dilakukan secara numerik menggunakan metode time-stepping, sehingga perubahan gerak benda dapat diamati per satuan waktu. Pendekatan ini membantu memahami bagaimana gaya luar yang bekerja pada suatu benda menghasilkan percepatan yang kemudian memengaruhi kecepatan dan lintasannya seiring waktu.
 
 ## Tujuan
-1. Memahami pengaruh gaya hambatan udara terhadap gerak peluru.
-2. Mengimplementasikan model fisika ke dalam perhitungan numerik.
-3. Menampilkan grafik lintasan peluru secara komputasi.
-4. Melatih keterampilan penggunaan Python/Jupyter Notebook dalam fisika komputasi.
+1. Memahami hubungan antara gaya, massa, dan percepatan berdasarkan Hukum II    Newton.
+2. Mengimplementasikan model gerak berbasis F = m·a ke dalam perhitungan        numerik menggunakan metode time-stepping
+3. Menampilkan grafik perubahan percepatan, kecepatan, dan posisi benda         secara komputasi.
+4. Melatih keterampilan penggunaan colab/Jupyter Notebook dalam fisika          komputasi.
 
 ## File dalam Folder
 - `Gerak_Peluru_dengan_hambatan_udara.ipynb` → notebook berisi simulasi lengkap.
 - `README.md` → penjelasan project.
 
 ## Penjelasan Fisis Singkat
-Gaya hambatan udara dimodelkan sebagai:
+Hukum II Newton menyatakan bahwa percepatan suatu benda berbanding lurus dengan gaya total yang bekerja padanya dan berbanding terbalik dengan massanya. Secara fisis, ini berarti bahwa semakin besar gaya yang diberikan, semakin besar percepatan yang dialami benda. Sebaliknya, semakin besar massa benda, semakin sulit benda tersebut dipercepat. Hukum ini menjelaskan bagaimana gaya mengubah keadaan gerak sebuah benda—baik mempercepat, memperlambat, maupun mengubah arah gerak. Hubungan ini dirumuskan sebagai:
 
-$\vec{F}_d = -k\vec{v} $
+$𝐹 = m ⋅ 𝑎$
 
-yang menyebabkan perlambatan pada arah kecepatan. Persamaan gerak diselesaikan secara numerik
-untuk memperoleh lintasan (trajectory) peluru.
+F=m⋅a
+
+yang menunjukkan bahwa percepatan adalah respon langsung dari benda terhadap gaya luar yang diterimanya.
 
 ## Cara Menjalankan File .ipynb di google Colab
 1. Klik tombol **Open in Colab** berikut.
