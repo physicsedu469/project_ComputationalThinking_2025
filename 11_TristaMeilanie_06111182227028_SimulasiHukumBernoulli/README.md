@@ -27,7 +27,8 @@ Efek Venturi berdasarkan dua hukum utama:
    Semakin kecil luas penampang $$(A_2 < A_1)$$, kecepatan fluida meningkat.
 
 3. Hukum Bernoulli
-   dengan prinsip Bernoulli, perbedaan tekanan dapat dihitung sebagai:
+
+   Dengan prinsip Bernoulli, perbedaan tekanan dapat dihitung sebagai:
 
    $$P_1 - P_2 = \frac{1}{2}\rho (v_2^2 - v_1^2)$$
 
