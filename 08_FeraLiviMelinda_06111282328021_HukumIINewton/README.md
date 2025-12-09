@@ -27,8 +27,8 @@ Hukum II Newton menjelaskan bagaimana gaya mengubah keadaan gerak sebuah bendaâ€
 yang menunjukkan bahwa percepatan adalah respon langsung dari benda terhadap gaya luar yang diterimanya.
 
 ## Cara Menjalankan File .ipynb di google Colab
-1. Klik tombol **Open in Colab** berikut.
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/physicsedu469/project_ComputationalThinking_2025/blob/main/08_FeraLiviaMelinda_06111282328021_SimulasiHukumIINewton/SimulasiHukumIINewton.ipynb)
+1. Klik tombol **Open in Colab** berikut.[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](ini 
+https://colab.research.google.com/drive/1eUKg4u8hIxMb5yCl4EFEDF4VYBSYC890?usp=sharing/github/physicsedu469/project_ComputationalThinking_2025/blob/main/08_FeraLiviaMelinda_06111282328021_SimulasiHukumIINewton/SimulasiHukumIINewton.ipynb)
 3. Notebook akan terbuka di Google Colab.  
 4. Jalankan sel-sel secara berurutan untuk melihat simulasi.  
 5. Anda dapat mengubah parameter (kecepatan awal, sudut tembak, koefisien drag) dan mengamati perubahan lintasan.
