@@ -54,3 +54,4 @@ Notebook akan menampilkan:
 - bergerak bolak–balik di sekitar titik setimbang
 - membentuk osilasi periodik
 - amplitudo tampak berkurang sedikit karena efek numerik metode Euler
+
