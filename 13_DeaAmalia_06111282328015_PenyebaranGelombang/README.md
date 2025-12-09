@@ -32,25 +32,25 @@ $$\rho_0 \frac{\partial \mathbf{v}}{\partial t} = - \nabla p$$
 
 b. Persamaan kontinuitas
 
-$$\frac{\partial \rho'}{\partial t} = - \rho_0 \nabla \cdot \mathbf{v}
+$$\frac{\partial \rho'}{\partial t} = - \rho_0 \nabla \cdot \mathbf{v}$$
 
 \textbf{Dengan:}
 
-\[
+$\[
 p \;=\; \text{tekanan akustik}
-\]
+\]$
 
-\[
+$\[
 \mathbf{v} \;=\; \text{kecepatan partikel}
-\]
+\]$
 
-\[
+$\[
 \rho_0 \;=\; \text{densitas udara (konstan)}
-\]
+\]$
 
-\[
+$\[
 \rho' \;=\; \text{perubahan densitas}
-\]$$
+\]$
 
 2. Persamaan Keadaan Linier
 
