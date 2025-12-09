@@ -18,13 +18,32 @@ Proyek ini merupakan simulasi komputasi berbasis Python untuk memodelkan gerak b
 - `README.md` → penjelasan project.
 
 ## Penjelasan Fisis Singkat
-Persamaan hukum 2 Newton adalah $F = m \cdot a$
+## Penjelasan Fisika
 
+Simulasi ini didasarkan pada Hukum II Newton:
 
-$\vec{F}_d = -k\vec{v} $
+$$
+F = m \cdot a
+$$
 
-yang menyebabkan perlambatan pada arah kecepatan. Persamaan gerak diselesaikan secara numerik
-untuk memperoleh lintasan (trajectory) peluru.
+Sehingga percepatan benda dapat dihitung:
+
+$$
+a = \frac{F}{m}
+$$
+
+Jika gaya konstan, maka percepatan juga konstan. Perubahan kecepatan dan posisi terhadap waktu dihitung dengan metode Euler:
+
+$$
+v(t + \Delta t) = v(t) + a \cdot \Delta t
+$$
+
+$$
+x(t + \Delta t) = x(t) + v(t) \cdot \Delta t
+$$
+
+Ketika gaya konstan menyebabkan percepatan konstan, kecepatan meningkat secara linear terhadap waktu, dan posisi meningkat secara kuadratik terhadap waktu.
+
 
 ## Cara Menjalankan File .ipynb di google Colab
 1. Klik tombol **Open in Colab** berikut.
