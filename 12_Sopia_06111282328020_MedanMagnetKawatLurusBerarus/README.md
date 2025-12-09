@@ -32,7 +32,8 @@ Untuk memperoleh nilai integral medan magnet pada suatu rentang jarak tertentu, 
      [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/physicsedu469/project_ComputationalThinking_2025/blob/main/12_Sopia_06111282328020_MedanMagnetKawatLurusBerarus/12_Sopia_06111282328020_MedanMagnetKawatLurusBerarus_.ipynb)
 
 2. Notebook akan terbuka di Google Colab.  
-3. Jalankan sel-sel secara berurutan untuk melihat simulasi.  
+3. Jalankan sel-sel secara berurutan untuk melihat simulasi.
+4. Anda dapat mengubah parameter seperti besar arus listrik, rentang jarak pengamatan, serta jumlah pembagian interval (n)  
 
 
 ## Hasil Output
