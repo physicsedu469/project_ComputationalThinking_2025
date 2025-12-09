@@ -23,7 +23,7 @@ Simulasi ini dilakukan menggunakan metode langkah-waktu (time stepping) dan divi
 Momentum didefinisikan sebagai hasil kali massa dan kecepatan :
 $p = m . v$
 Pada saat dua benda bertumbukan, akan berlaku hukum kekekalan momentum :
-$\frac{1}{2} m_1v_1^2 + \frac{1}{2} m_1v_2^2
+$\frac{1}{2} m_1v_1^2 + \frac{1}{2} m_1v_2^2$
 
 ## Cara Menjalankan File .ipynb di google Colab
 1. Klik tombol **Open in Colab** berikut.
