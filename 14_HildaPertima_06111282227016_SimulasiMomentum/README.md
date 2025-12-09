@@ -3,7 +3,7 @@
 ## Identitas
 - Nama  : Hilda Pertima 
 - NIM   : 06111282227016
-- Topik : Simulasi Momentum dan Tumbukan
+- Topik : Simulasi Momentum
 
 ## Deskripsi Singkat
 Project ini mensimulasikan momentum liniear dan tumbukan dua benda untuk mempelajari konsep momentum dan hukum kekekalan momentum. Dalam sistem tertutup tanpa gaya luar (gaya gesek dan hambatan udara), momentum total sistem akan tetap konstan, baik pada tumbukan lenting sempurna, tumbukan lenting sebagian dan tumbukan tidak lenting sempurna.Simulasi ini dilakukan menggunakan metode langkah-waktu (time stepping) dan divisualisasikan dengan animasi posisi dua benda yang bertumbukan. 
@@ -15,7 +15,7 @@ Project ini mensimulasikan momentum liniear dan tumbukan dua benda untuk mempela
 4. Menampilkan grafik momentum dan animasi tumbukan.
 
 ## File dalam Folder
-- `SimulasiMomentum.ipynb` → notebook berisi simulasi lengkap.
+- `simulasi_momentum.py` → notebook berisi simulasi lengkap.
 - `README.md` → penjelasan project.
 
 ## Penjelasan Fisis Singkat
@@ -40,7 +40,7 @@ Dua benda menyatu setelah tumbukan, momentum total kekal, energi kinetik hilang 
 
 ## Cara Menjalankan File .ipynb di google Colab
 1. Klik tombol **Open in Colab** berikut.
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/physicsedu469/project_ComputationalThinking_2025/blob/main/14_HildaPertima_06111282227016_SimulasiMomentum/SimulasiMomentum.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/physicsedu469/project_ComputationalThinking_2025/blob/main/14_HildaPertima_06111282227016_SimulasiMomentum/simulasi_momentum.py)
 3. Notebook akan terbuka di Google Colab.  
 4. Jalankan sel-sel secara berurutan untuk melihat simulasi.  
 5. Anda dapat mengubah parameter (kecepatan awal, sudut tembak, koefisien drag) dan mengamati perubahan lintasan.
