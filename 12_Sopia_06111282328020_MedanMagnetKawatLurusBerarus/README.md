@@ -16,7 +16,7 @@ Project ini mensimulasikan perhitungan medan magnet yang dihasilkan oleh sebuah 
 5. Melatih keterampilan penggunaan Jupyter Notebook dalam melakukan simulasi fisika komputasi, visualisasi grafik, dan evaluasi error numerik.
 
 ## File dalam Folder
-- `Gerak_Peluru_dengan_hambatan_udara.ipynb` → notebook berisi simulasi lengkap.
+- `SOPIA_06111282328020_MedanMagnetKawatLurusBerarus (1).ipynb` → notebook berisi simulasi lengkap.
 - `README.md` → penjelasan project.
 
 ## Penjelasan Fisis Singkat
