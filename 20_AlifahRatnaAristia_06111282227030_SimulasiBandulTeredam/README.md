@@ -35,11 +35,10 @@ Akibat adanya hambatan:
 Ini menunjukkan terjadinya konversi energi mekanik menjadi energi panas melalui hambatan udara.
 
 ## Cara Menjalankan File .ipynb di google Colab
-1. Buka Google Colab: https://colab.research.google.com
-2. Klik File → Upload Notebook
-3. Pilih file 
-4. Klik Runtime → Run All untuk menjalankan seluruh sel kode
-5. Ubah parameter (massa, panjang, redaman) untuk melihat perubahan grafik
+1. Buka Google Colab: 
+2. Notebook akan terbuka di Google Colab
+3. Jalankan sel-sel secara berurutan untuk melihat simulasi
+4. Ubah parameter (massa, panjang, redaman) untuk melihat perubahan grafik
 
 ## Hasil Output
 - Grafik sudut vs waktu
