@@ -11,7 +11,12 @@ Proyek ini membuat simulasi gerak osilasi pegas berdasarkan Hukum Hooke mengguna
 Proyek simulasi ini bertujuan untuk memberikan pemahaman yang lebih mendalam tentang bagaimana sistem pegas bekerja dan bagaimana gerakan osilasi dapat dianalisis melalui pendekatan komputasi. Dengan melakukan simulasi menggunakan metode numerik finite difference, mahasiswa dapat mengamati secara langsung perubahan posisi suatu massa pada pegas dari waktu ke waktu, tanpa harus menggunakan alat laboratorium fisik.
 
 ## File dalam Folder
-🔬 **Penjelasan Fisikanya**
+
+## Penjelasan Fisika
+Pada sistem pegas, ketika sebuah benda ditarik menjauh dari posisi awalnya kemudian dilepaskan, pegas akan berusaha kembali ke posisi semula. Karena pegas menarik benda kembali, benda tersebut tidak langsung berhenti di titik tengah, tetapi malah bergerak melewati titik tersebut dan terus bergerak ke sisi yang berlawanan. Setelah itu, gaya dari pegas kembali menarik benda lagi ke posisi awal.
+Akibat dari saling tarik menarik antara gaya pegas dan gerakan benda, benda akan bergerak naik dan turun secara teratur. Gerakan ini disebut osilasi atau getaran berulang, mirip seperti pergerakan per atau pegas di pulpen, shockbreaker motor, atau ayunan tempat tidur yang digoyang.
+Kecepatan benda akan berubah-ubah: paling cepat ketika melewati posisi tengah, dan paling lambat ketika mencapai titik paling jauh. Gerakan seperti ini terjadi terus menerus selama tidak ada hambatan udara atau gesekan. Bila ada gesekan atau redaman, gerakannya akan semakin melemah dan akhirnya berhenti.
+Simulasi komputer digunakan untuk meniru gerakan ini dari waktu ke waktu sehingga kita bisa melihat bentuk getaran dalam grafik, tanpa harus melakukan percobaan langsung di laboratorium.
 
 Gaya pegas mengikuti Hukum Hooke:
 
@@ -34,13 +39,6 @@ Sehingga persamaan geraknya menjadi:
 $$ \frac{dv}{dt} = -\frac{k}{m}x $$
 
 Gerak ini menghasilkan **osilasi harmonik sederhana**, yaitu gerak periodik yang berulang-ulang.
-
-
-## Penjelasan Fisika
-Pada sistem pegas, ketika sebuah benda ditarik menjauh dari posisi awalnya kemudian dilepaskan, pegas akan berusaha kembali ke posisi semula. Karena pegas menarik benda kembali, benda tersebut tidak langsung berhenti di titik tengah, tetapi malah bergerak melewati titik tersebut dan terus bergerak ke sisi yang berlawanan. Setelah itu, gaya dari pegas kembali menarik benda lagi ke posisi awal.
-Akibat dari saling tarik menarik antara gaya pegas dan gerakan benda, benda akan bergerak naik dan turun secara teratur. Gerakan ini disebut osilasi atau getaran berulang, mirip seperti pergerakan per atau pegas di pulpen, shockbreaker motor, atau ayunan tempat tidur yang digoyang.
-Kecepatan benda akan berubah-ubah: paling cepat ketika melewati posisi tengah, dan paling lambat ketika mencapai titik paling jauh. Gerakan seperti ini terjadi terus menerus selama tidak ada hambatan udara atau gesekan. Bila ada gesekan atau redaman, gerakannya akan semakin melemah dan akhirnya berhenti.
-Simulasi komputer digunakan untuk meniru gerakan ini dari waktu ke waktu sehingga kita bisa melihat bentuk getaran dalam grafik, tanpa harus melakukan percobaan langsung di laboratorium.
 
 ## Cara Menjalankan File .ipynb di google Colab
 1. Klik tombol **Open in Colab** berikut.

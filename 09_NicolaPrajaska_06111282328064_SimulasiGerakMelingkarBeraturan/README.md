@@ -29,13 +29,21 @@ $$\omega = \frac{2\pi}{T}$$
 
 $$v = \omega r$$
 
+3. Frekuensi:
 
-3. Kecepatan Linear (Tangensial):
+$$f = \frac{1}{T}$$
 
-   
+4. Hubungan Kecepatan Sudut dan Frekuensi
 
-yang menyebabkan perlambatan pada arah kecepatan. Persamaan gerak diselesaikan secara numerik
-untuk memperoleh lintasan (trajectory) peluru.
+$$\omega = 2\pi f$$
+
+5. Percepatan Sentripetal
+
+$$a_c = \omega^2 r$$
+
+Pada GMB, nilai 𝜔 tetap, tetapi kecepatan linear 
+𝑣 dan percepatan sentripetal $a_s$ bergantung pada r.
+Simulasi ini menampilkan bagaimana setiap variabel berubah bila kita mengatur salah satu variabel sebagai variabel bebas uji.
 
 ## Mode Uji dalam Simulasi
 

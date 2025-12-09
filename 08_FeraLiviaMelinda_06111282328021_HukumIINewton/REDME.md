@@ -12,6 +12,7 @@ Proyek ini merupakan simulasi komputasi berbasis Python untuk memodelkan gerak b
 1. Memahami hubungan antara gaya, massa, dan percepatan.
 2. Menerapkan metode numerik dalam pemodelan gerak.
 3. Menghasilkan visualisasi gerak benda terhadap waktu.
+4. Melatih keterampilan penggunaan Python/Notebook dalam simulasi fisika
 
 ## File dalam Folder
 - `Gerak_Peluru_dengan_hambatan_udara.ipynb` → notebook berisi simulasi lengkap.
