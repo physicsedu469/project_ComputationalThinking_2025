@@ -35,7 +35,7 @@ s=v.t
 
 ## Cara Menjalankan File .ipynb di google Colab
 1. Klik tombol *Open in Colab* berikut.
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/physicsedu469/project_ComputationalThinking_2025/blob/main/19_ArtiCahyaArdila_06111282227032_SimulasiKecepatanDalamGerakLurus/Simulasi_Kecepatan_dalam_Gerak_Lurus(1).ipynb)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/physicsedu469/project_ComputationalThinking_2025/blob/main/19_ArtiCahyaArdila_06111282227032_SimulasiKecepatanDalamGerakLurus/Simulasi_Kecepatan_dalam_Gerak_Lurus_(1).ipynb)
 3. Notebook akan terbuka di Google Colab.  
 4. Jalankan sel-sel dari atas ke bawah.  
 5. Ubah parameter (kecepatan awal, percepatan, waktu) untuk melihat pengaruhnya terhadap gerak.
