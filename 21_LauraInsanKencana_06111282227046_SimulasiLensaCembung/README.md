@@ -43,7 +43,7 @@ Simulasi dilakukan secara numerik untuk menampilkan grafik posisi bayangan dan p
 
 ## Cara Menjalankan File .ipynb di google Colab
 1. Klik tombol **Open in Colab** berikut.
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/laurakencana13/project_ComputationalThinking_2025/blob/main/21_LauraInsankencana_06111282227046_SimulasiLensaCembung/LensaCembung.ipynb)
+   [![Open In Colab][![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/laurakencana13/project_ComputationalThinking_2025/blob/main/21_LauraInsankencana_06111282227046_SimulasiLensaCembung/LensaCembung.ipynb)
 3. Notebook akan terbuka di Google Colab.  
 4. Jalankan sel-sel secara berurutan untuk melihat simulasi.  
 5. Anda dapat mengubah parameter (misalnya panjang fokus atau rentang jarak benda) dan mengamati perubahan grafik.
