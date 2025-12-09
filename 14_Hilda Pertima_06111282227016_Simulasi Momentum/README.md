@@ -22,21 +22,31 @@ Project ini mensimulasikan momentum liniear dan tumbukan dua benda untuk mempela
 Momentum didefinisikan sebagai hasil kali massa dan kecepatan :
 $p = m . v$
 Pada saat dua benda bertumbukan, akan berlaku hukum kekekalan momentum :
-$\frac{1}{2} m_1v_1^2 + \frac{1}{2} m_1v_2^2$
+$\frac{1}{2}m_1v_1^2 + \frac{1}{2}m_1v_2^2$
+
 Tumbukan dibagi menjadi 3 macam 
+
 Tumbukan Lenting Sempurna:
+
 Momentum dan energi kinetik total kekal dengan koefisien resistusi $e=1$ yang terjadi pada benda sangat elastis seperti partikel atom atau bola baja.
-$m_1v_1 + m_2v_2 = m_1v_1^` + m_2v_2^`$ 
+
+$m_1v_1+m_2v_2= m_1v_1^`+ m_2v_2^`$
+
 Tumbukan Lenting Sebagian:
+
 Momentum total kekal, energi kinetik sebagian hilang menjadi panas, bunyi, atau deformasi dengan Koefisien restitusi $0<e<1$
-$m_1v_1 + m_2v_2 = m_1v_1^` + m_2v_2^`$ 
+
+$m_1v_1+m_2v_2 = m_1v_1^`+ m_2v_2^`$ 
+
 Tumbukan Lenting Tidak Sempurna:
+
 Dua benda menyatu setelah tumbukan, momentum total kekal, energi kinetik hilang sebagian besar dengan koefisien restitusi $e=0$
+
 $m_1v_1 + m_2v_2 = (m_1   + _2)v'$ 
 
 ## Cara Menjalankan File .ipynb di google Colab
 1. Klik tombol **Open in Colab** berikut.
-   [![Open In Colab](https://colab.research.google.com/drive/1GZLRn5R6vUrUgV7UaUJ66UWhXl3o_3zl#scrollTo=efUDZoKkWWZ7)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/physicsedu469/project_ComputationalThinking_2025/blob/main/14_HildaPertima_06111282227016_SimulasiMomentun/Simulasi_Momentum.ipynb)
 3. Notebook akan terbuka di Google Colab.  
 4. Jalankan sel-sel secara berurutan untuk melihat simulasi.  
 5. Anda dapat mengubah parameter (kecepatan awal, sudut tembak, koefisien drag) dan mengamati perubahan lintasan.
