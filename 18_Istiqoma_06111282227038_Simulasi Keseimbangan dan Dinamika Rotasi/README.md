@@ -16,7 +16,7 @@ a : Percepatan (m/s2)
 I : Momen inersia (kgm2)
 α : Percepatan sudut (rad/s)
 
-Benda tegar adalah benda yang tidak mengalami perubahan bentuk jika diberi gaya F tertentu pada benda tersebut. Hal ini karena benda tegar memiliki banyak partikel yang mengaitkan satu sama lain dan membentuk sebuah ukuran tertentu.Maka dalam hal ini, kesetimbangan benda tegar berkaitan dengan Hukum Newton I dengan menggunakan konsep ΣF=0 dan Στ=0 atau keseimbangan translasi. Jadi, kesetimbangan benda tegar adalah ketika benda dinilai sebagai
+Benda tegar adalah benda yang tidak mengalami perubahan bentuk jika diberi gaya F tertentu pada benda tersebut. Hal ini karena benda tegar memiliki banyak partikel yang mengaitkan satu sama lain dan membentuk sebuah ukuran tertentu.Maka dalam hal ini, keseimbangan benda tegar berkaitan dengan Hukum Newton I dengan menggunakan konsep ΣF=0 dan Στ=0 atau keseimbangan translasi. Jadi, kesetimbangan benda tegar adalah ketika benda dinilai sebagai
 bagian titik dengan ΣF=0, artinya benda tersebut seimbang. Contohnya misal seorang pemain akrobat yang tengah berdiri di atas tali dengan membawa tongkat yang panjang. Pemain ini memegang tongkat tepat di tengah-tengah. Akibatnya, gaya berat tongkat pada setiap sisi sama besar.Gaya ini menimbulkan momen gaya pada sumbu putar (tubuh pemain akrobat) sama besar dengan arah berlawanan, sehingga terjadi keseimbangan rotasi. Ini
 menyebabkan pemain lebih mudah berjalan di atas tali.
 
