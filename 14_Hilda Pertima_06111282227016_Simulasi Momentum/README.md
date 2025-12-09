@@ -36,7 +36,7 @@ $m_1v_1 + m_2v_2 = (m_1   + _2)v'$
 
 ## Cara Menjalankan File .ipynb di google Colab
 1. Klik tombol **Open in Colab** berikut.
-   [![Open In Colab](https://colab.research.google.com/drive/1GZLRn5R6vUrUgV7UaUJ66UWhXl3o_3zl?usp=sharing)](https://colab.research.google.com/github/physicsedu469/project_ComputationalThinking_2025/blob/main/00_Contoh_000000_gerakPeluru_drag/gerakPeluru_drag.ipynb)
+   [![Open In Colab](https://colab.research.google.com/drive/1GZLRn5R6vUrUgV7UaUJ66UWhXl3o_3zl#scrollTo=efUDZoKkWWZ7)
 3. Notebook akan terbuka di Google Colab.  
 4. Jalankan sel-sel secara berurutan untuk melihat simulasi.  
 5. Anda dapat mengubah parameter (kecepatan awal, sudut tembak, koefisien drag) dan mengamati perubahan lintasan.
