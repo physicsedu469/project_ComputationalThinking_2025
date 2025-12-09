@@ -44,4 +44,4 @@ $$I_{\text{norm}} = \frac{I_{\text{single}} \cdot I_{\text{multi}}}{\max(I_{\tex
 Notebook akan menampilkan:
 - Grafik pola difraksi.  
 - Perbandingan antara antara beberapa variasi panjang gelombang.  
-- Variasi lebar dan posisi puncak saat mengubah beberapa parameter (d, a, N).
+- Variasi lebar dan posisi puncak saat mengubah beberapa parameter (d, a, N, L).
