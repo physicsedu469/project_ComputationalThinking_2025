@@ -22,7 +22,7 @@ Simulasi dilakukan secara numerik menggunakan metode time-stepping, sehingga per
 ## Penjelasan Fisis Singkat
 Hukum II Newton menyatakan bahwa percepatan suatu benda berbanding lurus dengan gaya total yang bekerja padanya dan berbanding terbalik dengan massanya. Secara fisis, ini berarti bahwa semakin besar gaya yang diberikan, semakin besar percepatan yang dialami benda. Sebaliknya, semakin besar massa benda, semakin sulit benda tersebut dipercepan.
 Hukum II Newton menjelaskan bagaimana gaya mengubah keadaan gerak sebuah benda—baik mempercepat, memperlambat, maupun mengubah arah gerak. Hubungan ini dirumuskan sebagai:
-
+  $F = m ⋅ a$
                (F = m ⋅ a)
 
 yang menunjukkan bahwa percepatan adalah respon langsung dari benda terhadap gaya luar yang diterimanya.
