@@ -62,7 +62,7 @@ Model juga memasukkan faktor redaman (α) untuk mensimulasikan kehilangan energi
 
 ## Cara Menjalankan File .ipynb di google Colab
 1. Klik tombol **Open in Colab** berikut.
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/physicsedu469/project_ComputationalThinking_2025/blob/main/10_RevanolaGustiSyahrani_06111282328016_PerambatanGelombang.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)][(https://api.github.com/repos/physicsedu469/project_ComputationalThinking_2025/contents/10_RevanolaGustiSyahrani_06111282328016_PerambatanGelombang.ipynb?ref=main)}
 3. Notebook akan terbuka di Google Colab.  
 4. Jalankan sel-sel secara berurutan untuk melihat simulasi.  
 5. Anda dapat mengubah parameter (kecepatan gelombang c, redaman α, courant number r), bentuk kondisi awal lalu amati perubahannya.
