@@ -22,7 +22,7 @@ Simulasi ini memungkinkan kita mengamati bagaimana gelombang yang diberikan pada
 - `README.md` → penjelasan project.
 
 ## Penjelasan Fisis Singkat
-#1. Persamaan Dasar
+**1. Persamaan Dasar**
 
      Model akustik linier dibangun dari dua hukum fluida:
 
@@ -41,35 +41,35 @@ Simulasi ini memungkinkan kita mengamati bagaimana gelombang yang diberikan pada
    $\rho'$  = perubahan densitas
 
 
-2. Persamaan Keadaan Linier
+**2. Persamaan Keadaan Linier**
 
 $$p = c^{2}\rho'$$
 
 dengan 
 $𝑐$ adalah kecepatan rambat bunyi.
 
-3. Eliminasi Variabel Menjadi Persamaan Gelombang
+**3. Eliminasi Variabel Menjadi Persamaan Gelombang**
 Gabungan momentum + kontinuitas + keadaan:
 
 $$\frac{\partial^{2} p}{\partial t^{2}} = c^{2} \nabla^{2} p + s(x,y,t)$$
 
 Persamaan ini menjadi dasar metode FDTD.
 
-4. Diskritisasi Ruang 2D
+**4. Diskritisasi Ruang 2D**
 
 Operator Laplace 2D disederhanakan menjadi skema lima-titik:
 
 $$\nabla^{2} p \approx \frac{1}{h^{2}}
 \left( p_{i+1,j} + p_{i-1,j} + p_{i,j+1} + p_{i,j-1} - 4p_{i,j} \right)$$
 
-5. Diskritisasi Waktu Orde-2
+**5. Diskritisasi Waktu Orde-2**
 
 $$\frac{\partial^{2} p}{\partial t^{2}}
 \approx
 \frac{1}{\Delta t^{2}}
 \left( p_{i,j}^{\,n+1} - 2p_{i,j}^{\,n} + p_{i,j}^{\,n-1} \right)$$
 
-6. Skema FDTD
+**6. Skema FDTD**
 
 $$
 p_{i,j}^{\,n+1}
