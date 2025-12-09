@@ -16,7 +16,7 @@ Project ini mensimulasikan perhitungan medan magnet yang dihasilkan oleh sebuah 
 5. Melatih keterampilan penggunaan Jupyter Notebook dalam melakukan simulasi fisika komputasi, visualisasi grafik, dan evaluasi error numerik.
 
 ## File dalam Folder
-- `12_Sopia_06111282328020_MedanMagnetKawatLurusBerarus.ipynb` → notebook berisi simulasi lengkap.
+- `12_Sopia_06111282328020_MedanMagnetKawatLurusBerarus_.ipynb` → notebook berisi simulasi lengkap.
 - `README.md` → penjelasan project.
 
 ## Penjelasan Fisis Singkat
@@ -29,7 +29,7 @@ Untuk memperoleh nilai integral medan magnet pada suatu rentang jarak tertentu, 
 
 ## Cara Menjalankan File .ipynb di google Colab
    1.Klik tombol **Open in Colab** berikut.
-     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/physicsedu469/project_ComputationalThinking_2025/blob/main/12_Sopia_06111282328020_MedanMagnetKawatLurusBerarus/12_Sopia_06111282328020_MedanMagnetKawatLurusBerarus.ipynb)
+     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/physicsedu469/project_ComputationalThinking_2025/blob/main/12_Sopia_06111282328020_MedanMagnetKawatLurusBerarus/12_Sopia_06111282328020_MedanMagnetKawatLurusBerarus_.ipynb)
 
 2. Notebook akan terbuka di Google Colab.  
 3. Jalankan sel-sel secara berurutan untuk melihat simulasi.  
