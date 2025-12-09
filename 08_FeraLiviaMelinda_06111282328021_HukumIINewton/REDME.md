@@ -20,7 +20,7 @@ Proyek ini merupakan simulasi komputasi berbasis Python untuk memodelkan gerak b
 ## Penjelasan Fisis Singkat
 ## Penjelasan Fisika
 
-Simulasi ini didasarkan pada Hukum II Newton:
+Rumus dasar Hukum II Newton:
 
 $$
 F = m \cdot a
