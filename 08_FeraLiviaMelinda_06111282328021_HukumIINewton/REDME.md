@@ -18,7 +18,6 @@ Proyek ini merupakan simulasi komputasi berbasis Python untuk memodelkan gerak b
 - `README.md` → penjelasan project.
 
 ## Penjelasan Fisis Singkat
-## Penjelasan Fisika
 
 Rumus dasar Hukum II Newton:
 
