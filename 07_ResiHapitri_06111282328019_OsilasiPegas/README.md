@@ -51,6 +51,6 @@ Gerak ini menghasilkan **osilasi harmonik sederhana**, yaitu gerak periodik yang
 
 ## Hasil Output
 Notebook akan menampilkan:
-- Grafik sinus stabil
-- Amplitudo tetap  
-- Gerak bolak balik
+- bergerak bolak–balik di sekitar titik setimbang
+- membentuk osilasi periodik
+- amplitudo tampak berkurang sedikit karena efek numerik metode Euler
