@@ -18,12 +18,13 @@ Akibat dari saling tarik menarik antara gaya pegas dan gerakan benda, benda akan
 Kecepatan benda akan berubah-ubah: paling cepat ketika melewati posisi tengah, dan paling lambat ketika mencapai titik paling jauh. Gerakan seperti ini terjadi terus menerus selama tidak ada hambatan udara atau gesekan. Bila ada gesekan atau redaman, gerakannya akan semakin melemah dan akhirnya berhenti.
 Simulasi komputer digunakan untuk meniru gerakan ini dari waktu ke waktu sehingga kita bisa melihat bentuk getaran dalam grafik, tanpa harus melakukan percobaan langsung di laboratorium.
 
-## Cara Menjalankan File .ipynb di Jupyter Notebook
-1. Buka aplikasi Anaconda lalu buka jupyter Notebook
-3. Notebook akan terbuka di Anaconca  
+## Cara Menjalankan File .ipynb di google Colab
+1. Klik tombol **Open in Colab** berikut.
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/physicsedu469/project_ComputationalThinking_2025/blob/main/00_Contoh_000000_gerakPeluru_drag/gerakPeluru_drag.ipynb)
+3. Notebook akan terbuka di Google Colab.  
 4. Jalankan sel-sel secara berurutan untuk melihat simulasi.  
 5. Anda dapat mengubah parameter (konstanta pegas, massa benda, posisi awal, kecepatan awal, langkah waktu dan durasi simulasi)
-   
+
 ## Hasil Output
 Notebook akan menampilkan:
 - Grafik sinus stabil
