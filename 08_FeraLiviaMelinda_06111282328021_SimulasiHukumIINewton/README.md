@@ -1,9 +1,10 @@
 # Simulasi Hukum II Newton
+# Simulasi Percepatan Benda pada Permukaan 
 
 ## Identitas
 - Nama  : Fera Livia Melinda
 - NIM   : 06111282328021
-- Topik : Simulasi Gerak Peluru dengan Hambatan Udara
+- Topik : Simulasi Gerak Hukum II Newton
 
 ## Deskripsi Singkat
 Project ini mensimulasikan lintasan gerak peluru (projectile motion) yang dipengaruhi oleh
