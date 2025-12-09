@@ -13,3 +13,31 @@ Proyek ini merupakan simulasi komputasi berbasis Python untuk memodelkan gerak b
 2. Menerapkan metode numerik dalam pemodelan gerak.
 3. Menghasilkan visualisasi gerak benda terhadap waktu
 
+# 3. Penjelasan Fisika
+
+Simulasi yang dibuat pada proyek ini didasarkan pada **Hukum II Newton**, yang menyatakan bahwa:
+
+\[
+F = m \cdot a
+\]
+
+Artinya, percepatan suatu benda sebanding dengan gaya total yang bekerja padanya dan berbanding terbalik dengan massanya. Dari persamaan tersebut dapat diturunkan:
+
+\[
+a = \frac{F}{m}
+\]
+
+Jika gaya yang diberikan bernilai **konstan**, maka percepatan juga akan konstan atau tidak berubah terhadap waktu.
+
+Dalam konteks gerak lurus, hubungan antara percepatan, kecepatan, dan posisi dapat dituliskan sebagai:
+
+- Perubahan kecepatan terhadap waktu:
+\[
+v(t + \Delta t) = v(t) + a \cdot \Delta t
+\]
+
+- Perubahan posisi terhadap waktu:
+\[
+x(t + \Delta t) = x(t) + v(t) \cdot \Delta t
+\]
+
