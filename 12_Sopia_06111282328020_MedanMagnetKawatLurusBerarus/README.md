@@ -30,6 +30,7 @@ Untuk memperoleh nilai integral medan magnet pada suatu rentang jarak tertentu, 
 ## Cara Menjalankan File .ipynb di google Colab
    1.Klik tombol **Open in Colab** berikut.
      [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/physicsedu469/project_ComputationalThinking_2025/blob/main/12_Sopia_06111282328020_MedanMagnetKawatLurusBerarus/12_Sopia_06111282328020_MedanMagnetKawatLurusBerarus.ipynb)
+
 2. Notebook akan terbuka di Google Colab.  
 3. Jalankan sel-sel secara berurutan untuk melihat simulasi.  
 4. Anda dapat mengubah parameter (kecepatan awal, sudut tembak, koefisien drag) dan mengamati perubahan lintasan.
