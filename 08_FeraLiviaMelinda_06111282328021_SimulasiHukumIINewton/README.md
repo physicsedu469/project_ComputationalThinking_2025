@@ -6,7 +6,8 @@
 - Topik : Simulasi Gerak Hukum II Newton
 
 ## Deskripsi Singkat
-Proyek ini membahas penerapan Hukum II Newton (F = m·a) dalam menganalisis gerak benda dengan percepatan konstan. Melalui simulasi komputasi, hubungan antara gaya, massa, percepatan, kecepatan, dan posisi divisualisasikan secara dinamis. simulasi dilakukan secara numerik menggunakan metode time-stepping, sehingga perubahan gerak benda dapat diamati per satuan waktu. Pendekatan ini membantu memahami bagaimana gaya luar yang bekerja pada suatu benda menghasilkan percepatan yang kemudian memengaruhi kecepatan dan lintasannya seiring waktu.
+Proyek ini membahas penerapan Hukum II Newton (F = m·a) dalam menganalisis gerak benda dengan percepatan konstan. Melalui simulasi komputasi, hubungan antara gaya, massa, percepatan, kecepatan, dan posisi divisualisasikan secara dinamis. 
+Simulasi dilakukan secara numerik menggunakan metode time-stepping, sehingga perubahan gerak benda dapat diamati per satuan waktu. Pendekatan ini membantu memahami bagaimana gaya luar yang bekerja pada suatu benda menghasilkan percepatan yang kemudian memengaruhi kecepatan dan lintasannya seiring waktu.
 
 ## Tujuan
 1. Memahami hubungan antara gaya, massa, dan percepatan berdasarkan Hukum II    Newton.
@@ -19,11 +20,10 @@ Proyek ini membahas penerapan Hukum II Newton (F = m·a) dalam menganalisis gera
 - `README.md` → penjelasan project.
 
 ## Penjelasan Fisis Singkat
-Hukum II Newton menyatakan bahwa percepatan suatu benda berbanding lurus dengan gaya total yang bekerja padanya dan berbanding terbalik dengan massanya. Secara fisis, ini berarti bahwa semakin besar gaya yang diberikan, semakin besar percepatan yang dialami benda. Sebaliknya, semakin besar massa benda, semakin sulit benda tersebut dipercepat. Hukum ini menjelaskan bagaimana gaya mengubah keadaan gerak sebuah benda—baik mempercepat, memperlambat, maupun mengubah arah gerak. Hubungan ini dirumuskan sebagai:
+Hukum II Newton menyatakan bahwa percepatan suatu benda berbanding lurus dengan gaya total yang bekerja padanya dan berbanding terbalik dengan massanya. Secara fisis, ini berarti bahwa semakin besar gaya yang diberikan, semakin besar percepatan yang dialami benda. Sebaliknya, semakin besar massa benda, semakin sulit benda tersebut dipercepan.
+Hukum II Newton menjelaskan bagaimana gaya mengubah keadaan gerak sebuah benda—baik mempercepat, memperlambat, maupun mengubah arah gerak. Hubungan ini dirumuskan sebagai:
 
-$𝐹 = m ⋅ 𝑎$
-
-F=m⋅a
+               (F = m ⋅ a)
 
 yang menunjukkan bahwa percepatan adalah respon langsung dari benda terhadap gaya luar yang diterimanya.
 
