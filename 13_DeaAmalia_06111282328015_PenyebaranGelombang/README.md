@@ -32,7 +32,7 @@ a. Persamaan momentum (Euler linier)
 
 b. Persamaan kontinuitas
 
-\frac{\partial \rho'}{\partial t} = - \rho_0 \nabla \cdot \mathbf{v}
+$$\frac{\partial \rho'}{\partial t} = - \rho_0 \nabla \cdot \mathbf{v}$$
 
 \textbf{Dengan:}
 
