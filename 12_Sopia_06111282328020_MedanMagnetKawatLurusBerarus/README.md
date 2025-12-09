@@ -21,7 +21,7 @@ Project ini mensimulasikan perhitungan medan magnet yang dihasilkan oleh sebuah 
 
 ## Penjelasan Fisis Singkat
 Medan magnet di sekitar kawat lurus panjang yang dialiri arus listrik diberikan oleh persamaan:
-$B(r)=\frac{\mu_0 I}{2\pi r}$")
+$$B(r)=\frac{\mu_0 I}{2\pi r}$$
 
 yang menunjukkan bahwa besar medan magnet berbanding terbalik dengan jarak r dari kawat. Hal ini berarti bahwa semakin dekat suatu titik ke kawat, medan magnet yang dirasakan semakin kuat, dan sebaliknya medan magnet akan melemah ketika titik pengamatan menjauh dari kawat.
 
@@ -33,7 +33,6 @@ Untuk memperoleh nilai integral medan magnet pada suatu rentang jarak tertentu, 
 
 2. Notebook akan terbuka di Google Colab.  
 3. Jalankan sel-sel secara berurutan untuk melihat simulasi.  
-4. Anda dapat mengubah parameter (kecepatan awal, sudut tembak, koefisien drag) dan mengamati perubahan lintasan.
 
 
 ## Hasil Output
