@@ -10,8 +10,11 @@ Project ini mensimulasikan gerak lurus pada dua kondisi, yaitu gerak lurus berat
 
 ## Tujuan
 1.Memahami perbedaan antara gerak lurus beraturan dan gerak lurus berubah beraturan.
+
 2.Mensimulasikan perubahan posisi, kecepatan, dan percepatan terhadap waktu menggunakan Python.
+
 3.Menganalisis grafik v–t dan s–t untuk GLB dan GLBB.
+
 4.Melatih kemampuan penggunaan Google Colab atau jupyter notebook dalam fisika komputasi.
 
 ## File dalam Folder
