@@ -1,8 +1,9 @@
 # Simulasi Osilasi Pegas
 # Identitas
-Nama    : Resi Hapitri
-NIM     : 06111282328019
-Topik   : Osilasi Pegas
+- Nama    : Resi Hapitri
+- NIM     : 06111282328019
+- Topik   : Osilasi Pegas
+  
 # Deskripsi Singkat
 Proyek ini membuat simulasi gerak osilasi pegas berdasarkan Hukum Hooke menggunakan metode komputasi numerik Finite Difference (Euler Method). Simulasi menampilkan grafik hubungan antara perpindahan (x) dan waktu (t) untuk melihat bagaimana massa pada pegas bergerak naik–turun secara periodik. Pada sistem pegas-massa, jika sebuah massa ditarik dari posisi keseimbangan dan dilepaskan, benda akan bergerak bolak-balik (osilasi). Secara teori, gerakan ini dapat dihitung menggunakan persamaan diferensial. Namun dalam simulasi komputasi, gerak pegas dihitung sedikit demi sedikit dengan metode numerik finite difference, bukan langsung menggunakan persamaan analitik.
 
@@ -17,16 +18,14 @@ Akibat dari saling tarik menarik antara gaya pegas dan gerakan benda, benda akan
 Kecepatan benda akan berubah-ubah: paling cepat ketika melewati posisi tengah, dan paling lambat ketika mencapai titik paling jauh. Gerakan seperti ini terjadi terus menerus selama tidak ada hambatan udara atau gesekan. Bila ada gesekan atau redaman, gerakannya akan semakin melemah dan akhirnya berhenti.
 Simulasi komputer digunakan untuk meniru gerakan ini dari waktu ke waktu sehingga kita bisa melihat bentuk getaran dalam grafik, tanpa harus melakukan percobaan langsung di laboratorium.
 
-## Cara Menjalankan File .ipynb di google Colab
-1. Klik tombol **Open in Colab** berikut.
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/physicsedu469/project_ComputationalThinking_2025/blob/main/00_Contoh_000000_gerakPeluru_drag/gerakPeluru_drag.ipynb)
-3. Notebook akan terbuka di Google Colab.  
+## Cara Menjalankan File .ipynb di Jupyter Notebook
+1. Buka aplikasi Anaconda lalu buka jupyter Notebook
+3. Notebook akan terbuka di Anaconca  
 4. Jalankan sel-sel secara berurutan untuk melihat simulasi.  
-5. Anda dapat mengubah parameter (kecepatan awal, sudut tembak, koefisien drag) dan mengamati perubahan lintasan.
+5. Anda dapat mengubah parameter (konstanta pegas, massa benda, posisi awal, kecepatan awal, langkah waktu dan durasi simulasi)
    
-# Hasil Output
-1. Grafik sinus stabil	tidak ada redaman
-
-2. Amplitudo tetap	energi sistem konstan
-
-3. Gerak bolak-balik	sifat pegas mengikuti hukum Hooke
+## Hasil Output
+Notebook akan menampilkan:
+- Grafik sinus stabil
+- Amplitudo tetap  
+- Gerak bolak balik
