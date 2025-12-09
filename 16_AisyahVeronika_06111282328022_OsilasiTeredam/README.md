@@ -27,7 +27,7 @@ Gerak osilasi teredam merupakan gerak periodik suatu benda yang amplitudonya sem
 waktu akibat adanya gaya hambatan dari lingkungan. Dalam model ini, gaya hambatan dianggap sebanding
 dengan kecepatan benda dan arahnya berlawanan dengan arah geraknya, sehingga dapat dituliskan sebagai:
 
-$\vec{F_d} = -b\vec{v}$
+$$\vec{F_d} = -b\vec{v}$$
 
 Persamaan gerak sistem tidak diselesaikan secara analitik, melainkan secara numerik menggunakan pendekatan
 time-stepping. Pada pendekatan ini, posisi dan kecepatan benda dihitung secara bertahap untuk setiap selang
