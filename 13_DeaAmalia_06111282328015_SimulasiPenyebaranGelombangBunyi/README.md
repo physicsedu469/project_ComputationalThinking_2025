@@ -7,9 +7,7 @@
 
 ## Deskripsi Singkat
 Proyek ini mensimulasikan penyebaran gelombang bunyi di dalam ruang dua dimensi menggunakan metode FDTD (Finite Difference Time Domain). Melalui model akustik linier, tekanan 
-p(x,y,t) dihitung pada setiap grid sehingga proses perambatan, pantulan dari dinding, hingga interferensi dapat terlihat secara jelas. Persamaan gelombang yang digunakan berasal dari gabungan persamaan momentum dan kontinuitas, kemudian disederhanakan menjadi bentuk diskrit yang dapat dieksekusi secara numerik.
-
-Simulasi ini memungkinkan kita mengamati bagaimana gelombang yang diberikan pada sebuah titik sumber menyebar ke seluruh domain, mengalami pemantulan pada batas ruangan, dan membentuk pola tekanan yang berubah seiring waktu. Selain pola ruang, juga ditampilkan sinyal tekanan pada titik tertentu serta evolusi energi sistem, yang memberi gambaran apakah metode yang dipakai stabil dan apakah pantulan dalam domain mempengaruhi dinamika energi. Notebook menyediakan kode lengkap sehingga pengguna dapat mengubah parameter seperti ukuran grid, durasi simulasi, atau bentuk sumber untuk melihat perbedaan pola gelombang.
+p(x,y,t) dihitung pada setiap grid sehingga proses perambatan, pantulan dari dinding, hingga interferensi dapat terlihat secara jelas. Persamaan gelombang yang digunakan berasal dari gabungan persamaan momentum dan kontinuitas, kemudian disederhanakan menjadi bentuk diskrit yang dapat dieksekusi secara numerik. Simulasi ini memungkinkan kita mengamati bagaimana gelombang yang diberikan pada sebuah titik sumber menyebar ke seluruh domain, mengalami pemantulan pada batas ruangan, dan membentuk pola tekanan yang berubah seiring waktu. Selain pola ruang, juga ditampilkan sinyal tekanan pada titik tertentu serta evolusi energi sistem, yang memberi gambaran apakah metode yang dipakai stabil dan apakah pantulan dalam domain mempengaruhi dinamika energi.
 
 ## Tujuan
 1. Memahami proses fisik penyebaran gelombang bunyi dalam ruang 2D
