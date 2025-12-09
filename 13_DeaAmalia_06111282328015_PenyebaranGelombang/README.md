@@ -27,11 +27,11 @@ Model akustik linier dibangun dari dua hukum fluida:
 
 a. Persamaan momentum (Euler linier)
 
-       $$\rho_0 \frac{\partial \mathbf{v}}{\partial t} = - \nabla p$$
+$$\rho_0 \frac{\partial \mathbf{v}}{\partial t} = - \nabla p$$
 
 b. Persamaan kontinuitas
 
-       $$\frac{\partial \rho'}{\partial t} = - \rho_0 \nabla \cdot \mathbf{v}$$
+$$\frac{\partial \rho'}{\partial t} = - \rho_0 \nabla \cdot \mathbf{v}$$
 
    Dengan:
    $p$      = tekanan akustik
@@ -70,7 +70,7 @@ $$\frac{\partial^{2} p}{\partial t^{2}}
 
 **6. Skema FDTD**
 
-\[
+$$\[
 p_{i,j}^{n+1}
 = 2p_{i,j}^{n}
 - p_{i,j}^{n-1}
@@ -83,7 +83,9 @@ p_{i+1,j}^{n}
 - 4p_{i,j}^{n}
 \right)
 + s_{i,j}^{n}\Delta t^{2}
-\]
+\]$$
+
+
 
 
 dengan
