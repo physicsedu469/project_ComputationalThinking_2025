@@ -69,6 +69,7 @@ $$\frac{\partial^{2} p}{\partial t^{2}}
 \left( p_{i,j}^{\,n+1} - 2p_{i,j}^{\,n} + p_{i,j}^{\,n-1} \right)$$
 
 **6. Skema FDTD**
+
 $$
 p_{i,j}^{n+1}
 = 2p_{i,j}^{n}
@@ -83,7 +84,6 @@ p_{i+1,j}^{n}
 \right)
 + s_{i,j}^{n} (\Delta t)^{2}
 $$
-
 
 
 
