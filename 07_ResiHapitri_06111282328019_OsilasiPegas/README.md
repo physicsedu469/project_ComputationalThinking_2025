@@ -2,7 +2,7 @@
 ## Identitas
 - Nama    : Resi Hapitri
 - NIM     : 06111282328019
-- Topik   : Osilasi Pegas
+- Topik   : Simulasi Osilasi Pegas
   
 ## Deskripsi Singkat
 Proyek ini membuat simulasi gerak osilasi pegas berdasarkan Hukum Hooke menggunakan metode komputasi numerik Finite Difference (Euler Method). Simulasi menampilkan grafik hubungan antara perpindahan (x) dan waktu (t) untuk melihat bagaimana massa pada pegas bergerak naik–turun secara periodik. Pada sistem pegas-massa, jika sebuah massa ditarik dari posisi keseimbangan dan dilepaskan, benda akan bergerak bolak-balik (osilasi). Secara teori, gerakan ini dapat dihitung menggunakan persamaan diferensial. Namun dalam simulasi komputasi, gerak pegas dihitung sedikit demi sedikit dengan metode numerik finite difference, bukan langsung menggunakan persamaan analitik.
@@ -11,6 +11,8 @@ Proyek ini membuat simulasi gerak osilasi pegas berdasarkan Hukum Hooke mengguna
 Proyek simulasi ini bertujuan untuk memberikan pemahaman yang lebih mendalam tentang bagaimana sistem pegas bekerja dan bagaimana gerakan osilasi dapat dianalisis melalui pendekatan komputasi. Dengan melakukan simulasi menggunakan metode numerik finite difference, mahasiswa dapat mengamati secara langsung perubahan posisi suatu massa pada pegas dari waktu ke waktu, tanpa harus menggunakan alat laboratorium fisik.
 
 ## File dalam Folder
+- `Simulasi_Osilasi_Pegas.ipynb` → notebook berisi simulasi lengkap.
+- `README.md` → penjelasan project.
 
 ## Penjelasan Fisika
 Pada sistem pegas, ketika sebuah benda ditarik menjauh dari posisi awalnya kemudian dilepaskan, pegas akan berusaha kembali ke posisi semula. Karena pegas menarik benda kembali, benda tersebut tidak langsung berhenti di titik tengah, tetapi malah bergerak melewati titik tersebut dan terus bergerak ke sisi yang berlawanan. Setelah itu, gaya dari pegas kembali menarik benda lagi ke posisi awal.
