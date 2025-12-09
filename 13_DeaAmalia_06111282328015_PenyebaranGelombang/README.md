@@ -69,21 +69,12 @@ $$\frac{\partial^{2} p}{\partial t^{2}}
 \left( p_{i,j}^{\,n+1} - 2p_{i,j}^{\,n} + p_{i,j}^{\,n-1} \right)$$
 
 **6. Skema FDTD**
-
-$
-p_{i,j}^{n+1}
+\( p_{i,j}^{n+1}
 = 2p_{i,j}^{n}
 - p_{i,j}^{n-1}
-+ \lambda^{2}
-\left(
-p_{i+1,j}^{n}
-+ p_{i-1,j}^{n}
-+ p_{i,j+1}^{n}
-+ p_{i,j-1}^{n}
-- 4p_{i,j}^{n}
-\right)
-+ s_{i,j}^{n}\Delta t^{2}
-$
++ \lambda^{2}(p_{i+1,j}^{n}+p_{i-1,j}^{n}+p_{i,j+1}^{n}+p_{i,j-1}^{n}-4p_{i,j}^{n})
++ s_{i,j}^{n}\Delta t^{2} \)
+
 
 
 dengan
