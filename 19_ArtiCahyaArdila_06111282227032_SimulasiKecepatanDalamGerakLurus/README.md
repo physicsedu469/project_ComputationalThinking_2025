@@ -40,7 +40,6 @@ s=v.t
 4. Jalankan sel-sel dari atas ke bawah.  
 5. Ubah parameter (kecepatan awal, percepatan, waktu) untuk melihat pengaruhnya terhadap gerak.
 
-
 ## Hasil Output
 Notebook akan menampilkan:
 - Grafik Jarak vs Waktu (GLB & GLBB)
