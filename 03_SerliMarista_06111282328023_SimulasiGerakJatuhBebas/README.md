@@ -1,4 +1,4 @@
-# Simulasi Gerak Peluru dengan Hambatan Udara
+# Simulasi Gerak Jatuh Bebas
 
 ## Identitas
 - Nama  : Serli Marista
