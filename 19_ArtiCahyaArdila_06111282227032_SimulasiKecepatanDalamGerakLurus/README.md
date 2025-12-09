@@ -26,16 +26,18 @@ Project ini mensimulasikan gerak lurus pada dua kondisi, yaitu gerak lurus berat
 Kecepatan menyatakan seberapa cepat posisi benda berubah terhadap waktu dan dirumuskan sebagai:
 v=s/t
 2. Gerak Lurus Beraturan (GLB)
-s=v.t
-3. Gerak Lurus Berubah Beraturan (GLBB)
 
-   v(t)=v0+at
+   $s=v.t$
+   
+4. Gerak Lurus Berubah Beraturan (GLBB)
 
-   s(t)=v0t+1/2at^2
+   $v(t)=v_0+at$
+
+   $s(t)=v-0t+\frac{1}{2}at^2$
 
 ## Cara Menjalankan File .ipynb di google Colab
 1. Klik tombol *Open in Colab* berikut.
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/physicsedu469/project_ComputationalThinking_2025/blob/main/19_ArtiCahyaArdila_06111282227032_SimulasiKecepatanDalamGerakLurus/Simulasi_Kecepatan_Dalam_Gerak_Lurus(1).ipynb)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/physicsedu469/project_ComputationalThinking_2025/blob/main/19_ArtiCahyaArdila_06111282227032_SimulasiKecepatanDalamGerakLurus/Simulasi_Kecepatan_dalam_Gerak_Lurus.ipynb)
 3. Notebook akan terbuka di Google Colab.  
 4. Jalankan sel-sel dari atas ke bawah.  
 5. Ubah parameter (kecepatan awal, percepatan, waktu) untuk melihat pengaruhnya terhadap gerak.
