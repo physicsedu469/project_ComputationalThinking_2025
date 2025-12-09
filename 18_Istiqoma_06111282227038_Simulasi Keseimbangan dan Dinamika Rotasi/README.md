@@ -31,14 +31,17 @@ menyebabkan pemain lebih mudah berjalan di atas tali.
 - `README.md` → penjelasan project.
 
 ## Penjelasan Fisis Singkat
-Momentum didefinisikan sebagai hasil kali massa dan kecepatan :
-$p = m . v$
-Pada saat dua benda bertumbukan, akan berlaku hukum kekekalan momentum :
-$\frac{1}{2} m_1v_1^2 + \frac{1}{2} m_1v_2^2$
+1. Keseimbangan Benda Tegar
+Dalam sistem partikel, benda dianggap sebagai suatu titik materi. Semua gaya yang bekerja pada benda dianggap bekerja pada titik materi tersebut, sehingga gaya yang bekerja dapat menyebabkan gerak translasi (tidak menyebabkan gerak rotasi). Oleh karena itu, syarat keseimbangan pada sistem partikel hanya berlaku untuk keseimbangan translasi:
+ ∑F = 0 
+
+ 2. Dinamika Rotasi
+Dinamika rotasi adalah ilmu yang mempelajari tentang gerak rotasi (berputar) dengan memperhatikan aspek penyebabnya, yaitu momen gaya. Momen gaya atau yang lebih dikenal dengan torsi ini akan menyebabkan terjadinya percepatan sudut. Suatu benda dikatakan melakukan gerak rotasi (berputar) jika semua bagian benda bergerak mengelilingi poros atau sumbu putar. Sumbu putar benda terletak
+pada salah satu bagian dari benda tersebut.
 
 ## Cara Menjalankan File .ipynb di google Colab
 1. Klik tombol **Open in Colab** berikut.
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/physicsedu469/project_ComputationalThinking_2025/blob/main/00_Contoh_000000_gerakPeluru_drag/gerakPeluru_drag.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/physicsedu469/project_ComputationalThinking_2025/blob/main/18_Istiqoma_06111282227038_Simulasi Keseimbangan dan Dinamika Rotasi/keseimbangan_dan_dinamika_rotasi.ipynb)
 3. Notebook akan terbuka di Google Colab.  
 4. Jalankan sel-sel secara berurutan untuk melihat simulasi.  
 5. Anda dapat mengubah parameter engubah parameter (gaya besar, posisi gaya kerja terhadap poros, momen inersia, atau kondisi awal rotasi) dan mengamati bagaimana torsi mempengaruhi sudut percepatan, kecepatan sudut, serta tercapainya keseimbangan rotasi.
