@@ -1,8 +1,8 @@
 # Simulasi Gerak Osilasi Dua Pendulum
 
 ## Identitas
-- Nama  : Contoh 
-- NIM   : 00000000
+- Nama  : Nidia Andika 
+- NIM   : 06111282227044
 - Topik : Simulasi Gerak Osilasi Dua Pendulum
 
 ## Deskripsi Singkat
@@ -26,7 +26,6 @@ Pada sistem dua pendulum terkopel, masing-masing pendulum mengalami gaya pemulih
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/physicsedu469/project_ComputationalThinking_2025/blob/main/17_NidiaAndika_06111282227044_GerakOsilasiDuaPendulum/GerakOsilasiDuaPendulum.ipynb)
 3. Notebook akan terbuka di Google Colab.  
 4. Jalankan sel-sel secara berurutan untuk melihat simulasi.  
-5. Anda dapat mengubah parameter (kecepatan awal, sudut tembak, koefisien drag) dan mengamati perubahan lintasan.
 
 
 ## Hasil Output
