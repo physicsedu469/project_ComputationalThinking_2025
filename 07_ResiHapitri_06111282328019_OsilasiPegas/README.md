@@ -11,6 +11,29 @@ Proyek ini membuat simulasi gerak osilasi pegas berdasarkan Hukum Hooke mengguna
 Proyek simulasi ini bertujuan untuk memberikan pemahaman yang lebih mendalam tentang bagaimana sistem pegas bekerja dan bagaimana gerakan osilasi dapat dianalisis melalui pendekatan komputasi. Dengan melakukan simulasi menggunakan metode numerik finite difference, mahasiswa dapat mengamati secara langsung perubahan posisi suatu massa pada pegas dari waktu ke waktu, tanpa harus menggunakan alat laboratorium fisik.
 
 ## File dalam Folder
+🔬 **Penjelasan Fisikanya**
+
+Gaya pegas mengikuti Hukum Hooke:
+
+$$ F = -kx $$
+
+Karena Hukum Newton II:
+
+$$ F = ma $$
+
+Maka:
+
+$$ ma = -kx $$
+
+Percepatan adalah turunan kecepatan terhadap waktu:
+
+$$ a = \frac{dv}{dt} $$
+
+Sehingga persamaan geraknya menjadi:
+
+$$ \frac{dv}{dt} = -\frac{k}{m}x $$
+
+Gerak ini menghasilkan **osilasi harmonik sederhana**, yaitu gerak periodik yang berulang-ulang.
 
 
 ## Penjelasan Fisika
