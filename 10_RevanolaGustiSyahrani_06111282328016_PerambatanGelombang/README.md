@@ -16,7 +16,7 @@ Model numerik ini digunakan untuk menghitung evolusi gelombang dari waktu ke wak
 4. Melatih keterampilan pemrograman Python/Jupyter Notebook dalam fisika komputasi.
 
 ## File dalam Folder
-- `10_RevanolaGustiSyahrani_06111282328016_PerambatanGelombang.ipynb` → notebook berisi simulasi lengkap.
+- `10_RevanolaGustiSyahrani_06111282328016_PerambatanGelombang` → notebook berisi simulasi lengkap.
 - `README.md` → penjelasan project dan petunjuk penggunaan.
 
 ## Penjelasan Fisis Singkat
