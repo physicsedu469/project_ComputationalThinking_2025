@@ -38,7 +38,7 @@ Persamaan gerak diselesaikan secara numerik untuk memperoleh lintasan (*trajecto
 
 ## Cara Menjalankan File .ipynb di google Colab
 1. Klik tombol **Open in Colab** berikut.
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NurKayla/project_ComputationalThinking_2025/blob/main/15_NurKaylaLekati_06111282328026_GerakPeluruTanpaHambatanUdara.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NurKayla/project_ComputationalThinking_2025/blob/main/15_NurKaylaLekati_06111282328026/GerakPeluruTanpaHambatanUdara.ipynb)
 3. Notebook akan terbuka di Google Colab.  
 4. Jalankan sel-sel secara berurutan untuk melihat simulasi.  
 5. Anda dapat mengubah parameter (kecepatan awal, sudut tembak, koefisien drag) dan mengamati perubahan lintasan.
