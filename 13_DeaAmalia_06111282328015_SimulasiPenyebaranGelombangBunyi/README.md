@@ -1,9 +1,9 @@
 # Simulasi Penyebaran Gelombang Bunyi
 
 ## Identitas
-- Nama  : Dea Amalia
-- NIM   : 06111282328015
-- Topik : Simulasi Penyebaran Gelombang Bunyi Di Ruangan 2D Secara Numerik
+- Nama   : Dea Amalia
+- NIM    : 06111282328015
+- Topik  : Simulasi Penyebaran Gelombang Bunyi Di Ruangan 2D Secara Numerik
 
 ## Deskripsi Singkat
 Proyek ini mensimulasikan penyebaran gelombang bunyi di dalam ruang dua dimensi menggunakan metode FDTD (Finite Difference Time Domain). Melalui model akustik linier, tekanan 
