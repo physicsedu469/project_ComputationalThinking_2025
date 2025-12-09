@@ -35,7 +35,7 @@ Akibat adanya hambatan:
 Ini menunjukkan terjadinya konversi energi mekanik menjadi energi panas melalui hambatan udara.
 
 ## Cara Menjalankan File .ipynb di google Colab
-1. Buka Google Colab: https://colab.research.google.com/github/alifahra/project_ComputationalThinking_2025/blob/main/20_ALifahRatnaAristia_06111282227030_SimulasiBandulTeredam_drag/BandulTeredam_drag.ipynb
+1. Buka Google Colab: [https://colab.research.google.com/github/alifahra/project_ComputationalThinking_2025/blob/main/20_ALifahRatnaAristia_06111282227030_SimulasiBandulTeredam_drag/BandulTeredam_drag.ipynb](https://colab.research.google.com/drive/12lru8uulgGGVu4DlXG7iAFcwUUAOPXKm#scrollTo=-jEe9qHJsxhK)
 2. Notebook akan terbuka di Google Colab
 3. Jalankan sel-sel secara berurutan untuk melihat simulasi
 4. Ubah parameter (massa, panjang, redaman) untuk melihat perubahan grafik
