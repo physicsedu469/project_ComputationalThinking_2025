@@ -61,7 +61,7 @@ b = \frac{c^2 (\Delta t)^2}{h^2}
 Model juga memasukkan faktor redaman (α) untuk mensimulasikan kehilangan energi pada medium.
 
 ## Cara Menjalankan File .ipynb di google Colab
-1. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/physicsedu469/project_ComputationalThinking_2025/blob/main/10_RevanolaGustiSyahrani_06111282328016_10_RevanolaGustiSyahrani_06111282328016_PerambatanGelombang.ipynb)
+1. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/revanolags-blip/project_ComputationalThinking_2025/blob/main/10_RevanolaGustiSyahrani_06111282328016_PerambatanGelombang.ipynb)
 3. Notebook akan terbuka di Google Colab.  
 4. Jalankan sel-sel secara berurutan untuk melihat simulasi.  
 5. Anda dapat mengubah parameter (kecepatan gelombang c, redaman α, courant number r), bentuk kondisi awal lalu amati perubahannya.
