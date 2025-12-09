@@ -20,6 +20,16 @@ Project ini mensimulasikan pola difraksi cahaya yang melewati kisi difraksi berd
 
 ## Penjelasan Fisis Singkat
 
+$$I_{\text{single}} = \left(\frac{\sin \beta}{\beta}\right)^2, \quad \beta = \frac{\pi a x}{\lambda L}$$
+
+$$I_{\text{multi}} =\left(\frac{\sin(N\alpha)}{\sin(\alpha)}\right)^2, \quad \alpha = \frac{\lambda L \pi}{dx}$$
+
+sehingga didapat $I_{\text{total}}$
+
+$$\mathbf{I_{\text{total}} = I_0\times I_{\text{single}} \times I_{\text{multi}}}$$
+
+$$I_{\text{norm}} = \frac{I_{\text{single}} \cdot I_{\text{multi}}}{\max(I_{\text{single}} \cdot I_{\text{multi}})}$$
+
 
 ## Cara Menjalankan File .ipynb di google Colab
 1. Klik tombol **Open in Colab** berikut.
