@@ -15,7 +15,7 @@ Project ini mensimulasikan momentum liniear dan tumbukan dua benda untuk mempela
 4. Menampilkan grafik momentum dan animasi tumbukan.
 
 ## File dalam Folder
-- `https://colab.research.google.com/drive/1GZLRn5R6vUrUgV7UaUJ66UWhXl3o_3zl?usp=sharing` → notebook berisi simulasi lengkap.
+- Simulasi_Momentum.ipyb → notebook berisi simulasi lengkap.
 - `README.md` → penjelasan project.
 
 ## Penjelasan Fisis Singkat
