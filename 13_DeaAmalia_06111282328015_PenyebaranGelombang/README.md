@@ -23,14 +23,13 @@ Simulasi ini memungkinkan kita mengamati bagaimana gelombang yang diberikan pada
 
 ## Penjelasan Fisis Singkat
 **1. Persamaan Dasar**
+Model akustik linier dibangun dari dua hukum fluida:
 
-     Model akustik linier dibangun dari dua hukum fluida:
-
-  a. Persamaan momentum (Euler linier)
+a. Persamaan momentum (Euler linier)
 
        $$\rho_0 \frac{\partial \mathbf{v}}{\partial t} = - \nabla p$$
 
-  b. Persamaan kontinuitas
+b. Persamaan kontinuitas
 
        $$\frac{\partial \rho'}{\partial t} = - \rho_0 \nabla \cdot \mathbf{v}$$
 
@@ -71,20 +70,21 @@ $$\frac{\partial^{2} p}{\partial t^{2}}
 
 **6. Skema FDTD**
 
-$$
-p_{i,j}^{\,n+1}
-= 2p_{i,j}^{\,n}
-- p_{i,j}^{\,n-1}
+\[
+p_{i,j}^{n+1}
+= 2p_{i,j}^{n}
+- p_{i,j}^{n-1}
 + \lambda^{2}
 \left(
-p_{i+1,j}^{\,n}
-+ p_{i-1,j}^{\,n}
-+ p_{i,j+1}^{\,n}
-+ p_{i,j-1}^{\,n}
-- 4p_{i,j}^{\,n}
+p_{i+1,j}^{n}
++ p_{i-1,j}^{n}
++ p_{i,j+1}^{n}
++ p_{i,j-1}^{n}
+- 4p_{i,j}^{n}
 \right)
-+ s_{i,j}^{\,n}\Delta t^{2}
-$$
++ s_{i,j}^{n}\Delta t^{2}
+\]
+
 
 dengan
 $$\lambda = \frac{c\,\Delta t}{h}$$
