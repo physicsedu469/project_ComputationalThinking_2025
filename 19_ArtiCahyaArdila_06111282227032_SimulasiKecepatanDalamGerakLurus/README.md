@@ -25,7 +25,7 @@ Project ini mensimulasikan gerak lurus pada dua kondisi, yaitu gerak lurus berat
 1. Kecepatan
 Kecepatan menyatakan seberapa cepat posisi benda berubah terhadap waktu dan dirumuskan sebagai:
 
-   $v=s/t$
+   $v=\frac{s}{t}$
 
 2. Gerak Lurus Beraturan (GLB)
 
