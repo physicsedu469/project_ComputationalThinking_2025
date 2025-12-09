@@ -15,7 +15,7 @@ Proyek ini merupakan simulasi komputasi berbasis Python untuk memodelkan gerak b
 4. Melatih keterampilan penggunaan Python/Notebook dalam simulasi fisika
 
 ## File dalam Folder
-- `Gerak_Peluru_dengan_hambatan_udara.ipynb` → notebook berisi simulasi lengkap.
+- `Simulasi_Hk_II_Newton.ipynb` → notebook berisi simulasi lengkap.
 - `README.md` → penjelasan project.
 
 ## Penjelasan Fisis Singkat
