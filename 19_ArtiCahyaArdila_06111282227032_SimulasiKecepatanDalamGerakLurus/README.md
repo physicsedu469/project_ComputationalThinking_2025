@@ -26,12 +26,14 @@ Project ini mensimulasikan gerak lurus pada dua kondisi, yaitu gerak lurus berat
 Kecepatan menyatakan seberapa cepat posisi benda berubah terhadap waktu dan dirumuskan sebagai:
 v=s/t
 2. Gerak Lurus Beraturan (GLB)
-s=v.t
+
+   $s=v.t$
+   
 3. Gerak Lurus Berubah Beraturan (GLBB)
 
-   v(t)=v0+at
+   $v(t)=v_0+at$
 
-   s(t)=v0t+1/2at^2
+   $s(t)=v_0t+\frac{1}{2}at^2$
 
 ## Cara Menjalankan File .ipynb di google Colab
 1. Klik tombol *Open in Colab* berikut.
