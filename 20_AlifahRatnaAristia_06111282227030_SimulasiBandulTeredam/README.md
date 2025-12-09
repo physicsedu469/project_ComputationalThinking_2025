@@ -27,7 +27,7 @@ Gerakan bandul dipengaruhi oleh dua gaya utama:
 2. Gaya hambatan udara (drag) → berlawanan dengan arah kecepatan sudut
 Persamaan dinamika bandul teredam adalah:
 
-θ'' + (b/m)θ' + (g/L) sin(θ) = 0
+$\theta'' + \frac{b}{m}\theta' + \frac{g}{L}\sin(\theta) = 0$
 
 Akibat adanya hambatan:
 - Energi mekanik berkurang → gerak semakin lambat
