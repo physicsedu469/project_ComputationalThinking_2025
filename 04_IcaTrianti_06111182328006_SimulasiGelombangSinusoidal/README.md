@@ -1,51 +1,38 @@
 
-# Simulasi Gelombang Sinusoidal
+# Simulasi Gelombang Sinusoidal Tiga Fasa
 
 ## Identitas
 - Nama  : Ica Trianti
 - NIM   : 06111182328006
-- Topik : Simulasi Gelombang Sinusoidal
+- Topik : Simulasi Gelombang Sinusoidal Tiga Fasa
 
 ## Deskripsi Singkat
-Project ini mensimulasikan gelombang sinusoidal yang berubah terhadap waktu. Berbeda dengan gelombang statis, gelombang sinusoidal 
-dinamis memiliki amplitudo, frekuensi, dan fase yang memengaruhi bentuk osilasinya sehingga menghasilkan pola naik–turun secara 
-periodik. Perhitungan dilakukan secara numerik menggunakan metode time-stepping, di mana nilai gelombang dihitung pada setiap 
-langkah waktu untuk menggambarkan evolusi sinyal secara kontinu.
+Project ini mensimulasikan gelombang sinusoidal tiga fasa yang berubah terhadap waktu. Berbeda dengan gelombang statis, gelombang sinusoidal dinamis memiliki amplitudo, frekuensi, dan fase yang memengaruhi bentuk osilasinya sehingga menghasilkan pola naik–turun secara 
+berulang. 
 
 ## Tujuan
-1. Memahami karakteristik gelombang sinusoidal serta hubungan antara amplitudo, frekuensi, periode, dan fase.
-2. Mengimplementasikan model matematis gelombang sinusoidal ke dalam perhitungan numerik menggunakan metode time-stepping.
-3. Menampilkan grafik evolusi gelombang secara komputasi untuk mengamati perubahan nilai terhadap waktu.
-4. Melatih keterampilan penggunaan Python/Jupyter Notebook dalam melakukan simulasi dan visualisasi fenomena gelombang.
+1. Memahami karakteristik gelombang sinusoidal tiga fasa yang berubah terhadap waktu serta
+2. membandingkan bentuk gelombang berdasarkan variasi amplitudo, frekuensi, dan fase.
+3. Menampilkan grafik osilasi gelombang secara komputasi untuk mengamati perubahan nilai terhadap waktu.
 
 ## File dalam Folder
-- `Simulasi_Gelombang_Sinusoidal.ipynb` → notebook berisi simulasi lengkap.
+- `Gelombang_Sinusoidal.ipynb` → notebook berisi simulasi lengkap.
 - `README.md` → penjelasan project.
 
 ## Penjelasan Fisis Singkat
-Gelombang sinusoidal merupakan salah satu bentuk gelombang paling fundamental dalam fisika, karena banyak fenomena alam seperti gelombang bunyi, gelombang air, dan gelombang elektromagnetik dapat dimodelkan menggunakan fungsi sinus. Secara matematis, gelombang sinusoidal dapat dituliskan sebagai:
-
-$$
-y(t) = A \sin(2\pi f t + \phi)
-$$
-
-Selain itu, materi ini juga menunjukkan hubungan antara frekuensi dan periode, yang dinyatakan dengan rumus:
-
-$$
-T = \frac{1}{f}
-$$
+Gelombang sinusoidal adalah jenis gelombang yang memiliki bentuk kurva halus dan berulang secara teratur, mengikuti fungsi matematika sinus. Gelombang ini ditandai oleh pola naik dan turun yang simetris, dengan puncak (nilai maksimum) dan lembah (nilai minimum) yang muncul pada interval waktu yang tetap.
+Dalam sistem gelombang sinusoidal terdapat tiga fasa yaitu IR, IS, dan IT yang berosilasi dengan bentuk gelombang, frekuensi, dan amplitudo sama, namun memiliki perbedaan fase antar fasanya. Ketiga gelombang ini memiliki perbedaan fase sebesar 120° dimana Fasa R memiliki sudut fase 0°, fasa S memiliki sudut fase 120°, dan fasa T memiliki sudut fase 240°.
 
 ## Cara Menjalankan File .ipynb di google Colab
 1. Klik tombol **Open in Colab** berikut.
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/physicsedu469/project_ComputationalThinking_2025/blob/main/04_IcaTrianti_06111182328006/.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/physicsedu469/project_ComputationalThinking_2025/blob/main/04_IcaTrianti_06111182328006/Gelombang_Sinusoiodal.ipynb)
 3. Notebook akan terbuka di Google Colab.  
 4. Jalankan sel-sel secara berurutan untuk melihat simulasi.  
-5. Anda dapat mengubah parameter (kecepatan awal, sudut tembak, koefisien drag) dan mengamati perubahan lintasan.
+5. Anda dapat mengubah parameter (amplitudo, frekuensi, waktu) dan mengamati osilasi gelombang.
 
 
 ## Hasil Output
 Notebook akan menampilkan:
-- Grafik gelombang sinusoidal yang berubah terhadap waktu.
-- Perbandingan bentuk gelombang berdasarkan variasi amplitudo, frekuensi, dan fase.
-- Visualisasi hubungan antara frekuensi dan periode pada sinyal sinusoidal.
+- Grafik ini menunjukkan gelombang sinusoidal tiga fasa yang berubah terhadap waktu serta memperlihatkan perbandingan bentuk gelombang berdasarkan variasi amplitudo, frekuensi, dan fase.
+  
 
