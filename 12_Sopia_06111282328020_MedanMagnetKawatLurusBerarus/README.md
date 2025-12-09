@@ -10,7 +10,7 @@ Project ini mensimulasikan perhitungan medan magnet yang dihasilkan oleh sebuah 
 
 ## Tujuan
 1. Memahami hubungan antara besar medan magnet dan jarak dari kawat berarus melalui visualisasi grafik
-2.Mengimplementasikan persamaan fisika medan magnet ke dalam perhitungan integral numerik menggunakan metode trapezoidal untuk memperoleh nilai integral pada rentang jarak tertentu.
+2. Mengimplementasikan persamaan fisika medan magnet ke dalam perhitungan integral numerik menggunakan metode trapezoidal untuk memperoleh nilai integral pada rentang jarak tertentu.
 3. Membandingkan hasil perhitungan numerik dan hasil analitik untuk menilai tingkat akurasi dari metode trapezoidal.
 4. Menganalisis pengaruh jumlah pembagian interval (n) terhadap besar error dengan menampilkan grafik error metode trapezoidal secara komputasi.
 5. Melatih keterampilan penggunaan Jupyter Notebook dalam melakukan simulasi fisika komputasi, visualisasi grafik, dan evaluasi error numerik.
