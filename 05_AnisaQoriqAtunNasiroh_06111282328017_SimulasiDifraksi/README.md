@@ -15,7 +15,7 @@ Project ini mensimulasikan pola difraksi cahaya yang melewati kisi difraksi berd
 4. Melatih keterampilan penggunaan Python/Notebook dalam simulasi fisika.
 
 ## File dalam Folder
-- `.ipynb` → notebook berisi simulasi lengkap.
+- `Pengaruh_Panjang_Gelombang_Terhadap_Pola_Difraksi.ipynb` → notebook berisi simulasi lengkap.
 - `README.md` → penjelasan project.
 
 ## Penjelasan Fisis Singkat
