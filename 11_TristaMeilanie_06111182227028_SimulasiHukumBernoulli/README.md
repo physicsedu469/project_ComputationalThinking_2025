@@ -14,7 +14,7 @@ Project ini mensimulasikan Efek Venturi, yaitu fenomena ketika fluida yang menga
 3. Menampilkan grafik perubahan tekanan dan kecepatan pada pipa Venturi.
 
 ## File dalam Folder
-- `.ipynb` → notebook berisi simulasi lengkap.
+- `Simulasi_Hukum_Bernoulli.ipynb` → notebook berisi simulasi lengkap.
 - `README.md` → penjelasan project.
 
 ## Penjelasan Fisis Singkat
