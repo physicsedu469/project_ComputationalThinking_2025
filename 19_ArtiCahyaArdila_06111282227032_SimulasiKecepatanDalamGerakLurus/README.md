@@ -22,20 +22,25 @@ Project ini mensimulasikan gerak lurus pada dua kondisi, yaitu gerak lurus berat
 1. Kecepatan
 Kecepatan menyatakan seberapa cepat posisi benda berubah terhadap waktu dan dirumuskan sebagai:
 v=s/t
-2. Gaya Hambat Udara (Drag)
-Fd=−k⋅v
-yang menyebabkan perlambatan pada arah kecepatan.
+2. Gerak Lurus Beraturan (GLB)
+s=v.t
+3. Gerak Lurus Berubah Beraturan (GLBB)
+
+   v(t)=v0+at
+
+   s(t)=v0t+1/2at^2
 
 ## Cara Menjalankan File .ipynb di google Colab
 1. Klik tombol *Open in Colab* berikut.
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/physicsedu469/project_ComputationalThinking_2025/blob/main/03_SerliMarista_06111282328023_SimulasiGerakJatuhBebas/Simulasi_Gerak_Jatuh_Bebas.ipynb)
 3. Notebook akan terbuka di Google Colab.  
-4. Jalankan sel-sel secara berurutan untuk melihat simulasi.  
-5. Anda dapat mengubah parameter (kecepatan, massa, perubahan waktu dan hambatan udara untuk melihat pengaruhnya pada simulasi.g) dan mengamati perubahan lintasan.
+4. Jalankan sel-sel dari atas ke bawah.  
+5. Ubah parameter (kecepatan awal, percepatan, waktu) untuk melihat pengaruhnya terhadap gerak.
 
 
 ## Hasil Output
 Notebook akan menampilkan:
-- Grafik Posisi vs Waktu
+- Grafik Jarak vs Waktu (GLB & GLBB)
 - Grafik Kecepatan vs Waktu
 - Grafik Percepatan vs Waktu
+- Grafik Perbandingan Kecepatan Konstan dan Bertambah
