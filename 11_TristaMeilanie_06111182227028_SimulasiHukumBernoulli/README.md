@@ -1,9 +1,9 @@
-# Simulasi Hukum Bernoulli
+# Simulasi Hukum Bernoulli : Efek Venturi 
 
 ## Identitas
 - Nama  : Trista Meilanie
 - NIM   : 06111182227028
-- Topik : Simulasi Hukum Bernoulli
+- Topik : Efek Venturi dalam aliran fluida
 
 ## Deskripsi Singkat
 Project ini mensimulasikan 
