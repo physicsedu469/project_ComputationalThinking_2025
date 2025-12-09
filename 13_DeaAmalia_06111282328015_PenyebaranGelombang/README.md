@@ -34,7 +34,7 @@ b. Persamaan kontinuitas
 
 $$\frac{\partial \rho'}{\partial t} = - \rho_0 \nabla \cdot \mathbf{v}$$
 
-\textbf{Dengan:}
+Dengan:
 
 $\[
 p \;=\; \text{tekanan akustik}
@@ -55,6 +55,7 @@ $\[
 2. Persamaan Keadaan Linier
 
 $$p = c^{2}\rho'$$
+
 dengan 
 $𝑐$ adalah kecepatan rambat bunyi.
 
@@ -62,13 +63,15 @@ $𝑐$ adalah kecepatan rambat bunyi.
 Gabungan momentum + kontinuitas + keadaan:
 
 $$\frac{\partial^{2} p}{\partial t^{2}} = c^{2} \nabla^{2} p + s(x,y,t)$$
+
 Persamaan ini menjadi dasar metode FDTD.
 
 4. Diskritisasi Ruang 2D
 
 Operator Laplace 2D disederhanakan menjadi skema lima-titik:
+
 $$\nabla^{2} p \approx \frac{1}{h^{2}}
-\left( p_{i+1,j} + p_{i-1,j} + p_{i,j+1} + p_{i,j-1} - 4p_{i,j} \right)
+\left( p_{i+1,j} + p_{i-1,j} + p_{i,j+1} + p_{i,j-1} - 4p_{i,j} \right)$$
 
 5. Diskritisasi Waktu Orde-2
 
