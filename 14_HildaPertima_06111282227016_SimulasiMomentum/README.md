@@ -15,7 +15,7 @@ Project ini mensimulasikan momentum liniear dan tumbukan dua benda untuk mempela
 4. Menampilkan grafik momentum dan animasi tumbukan.
 
 ## File dalam Folder
-- `simulasi_momentum.py` → notebook berisi simulasi lengkap.
+- `simulasimomentum.py` → notebook berisi simulasi lengkap.
 - `README.md` → penjelasan project.
 
 ## Penjelasan Fisis Singkat
@@ -40,7 +40,7 @@ Dua benda menyatu setelah tumbukan, momentum total kekal, energi kinetik hilang 
 
 ## Cara Menjalankan File .ipynb di google Colab
 1. Klik tombol **Open in Colab** berikut.
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/physicsedu469/project_ComputationalThinking_2025/blob/main/14_HildaPertima_06111282227016_simulasimomentum/simulasi_momentum.py)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/physicsedu469/project_ComputationalThinking_2025/blob/main/14_HildaPertima_06111282227016_SimulasiMomentum/simulasimomentum.py)
 3. Notebook akan terbuka di Google Colab.  
 4. Jalankan sel-sel secara berurutan untuk melihat simulasi.  
 5. Anda dapat mengubah parameter (kecepatan awal, sudut tembak, koefisien drag) dan mengamati perubahan lintasan.
