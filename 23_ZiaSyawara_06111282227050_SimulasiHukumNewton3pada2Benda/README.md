@@ -25,7 +25,7 @@ Hukum Newton 3 menyatakan bahwa setiap aksi akan menimbulkan reaksi yang sama be
 
 ## Cara Menjalankan File .ipynb di google Colab
 1. Klik tombol **Open in Colab** berikut.
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ziasyawara04/project_ComputationalThinking_2025/blob/main/23_ZiaSyawara_06111282227050_SimulasiHukumNewton3pada2Benda/Simulasi_Hukum_Newton_3_pada_2_Benda.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/physicsedu469/project_ComputationalThinking_2025/blob/main/23_ZiaSyawara_06111282227050_SimulasiHukumNewton3pada2Benda/Simulasi_Hukum_Newton_3_pada_2_Benda.ipynb)
 3. Notebook akan terbuka di Google Colab.  
 4. Jalankan sel-sel secara berurutan untuk melihat simulasi.  
 5. Anda dapat mengubah parameter (kecepatan awal, sudut tembak, koefisien drag) dan mengamati perubahan lintasan.
