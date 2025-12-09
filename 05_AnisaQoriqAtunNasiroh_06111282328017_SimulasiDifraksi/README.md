@@ -20,6 +20,8 @@ Project ini mensimulasikan pola difraksi cahaya yang melewati kisi difraksi berd
 
 ## Penjelasan Fisis Singkat
 
+Ketika cahaya melewati celah, maka digunkan rumus:
+
 $$I_{\text{single}} = \left(\frac{\sin \beta}{\beta}\right)^2, \quad \beta = \frac{\pi a x}{\lambda L}$$
 
 $$I_{\text{multi}} =\left(\frac{\sin(N\alpha)}{\sin(\alpha)}\right)^2, \quad \alpha = \frac{\lambda L \pi}{dx}$$
