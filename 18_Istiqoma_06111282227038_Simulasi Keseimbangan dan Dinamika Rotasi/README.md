@@ -49,9 +49,7 @@ pada salah satu bagian dari benda tersebut.
 
 ## Cara Menjalankan File .ipynb di google Colab
 1. Klik tombol **Open in Colab** berikut.
- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/proyek_PemikiranKomputasi_2025/physicsedu469/blob/main/18_Istiqoma_06111282227038_Simulasi_Keseimbangan_dan_Dinamika_Rotasi/keseimbangan_dan_dinamika_rotasi.ipynb
-)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/physicsedu469/project_ComputationalThinking_2025/blob/main/018_Istiqoma_06111282227038_Simulasi Keseimbangan dan Dinamika Rotasi/keseimbangan_dan_dinamika_rotasi.ipynb)
 
 2. Notebook akan terbuka di Google Colab.  
 3. Jalankan sel-sel secara berurutan untuk melihat simulasi.  
