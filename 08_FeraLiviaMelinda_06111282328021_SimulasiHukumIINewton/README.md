@@ -31,12 +31,11 @@ yang menunjukkan bahwa percepatan adalah respon langsung dari benda terhadap gay
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/physicsedu469/project_ComputationalThinking_2025/blob/main/08_FeraLiviaMelinda_06111282328021_SimulasiHukumIINewton/SimulasiHukumIINewton.ipynb)
 3. Notebook akan terbuka di Google Colab.  
 4. Jalankan sel-sel secara berurutan untuk melihat simulasi.  
-5. Anda dapat mengubah parameter (kecepatan awal, sudut tembak, koefisien drag) dan mengamati perubahan lintasan.
+5. Anda dapat mengubah parameter (Massa Benda, Gaya Total) dan mengamati perubahan Grafik.
 
 
 ## Hasil Output
 Notebook akan menampilkan:
-- Grafik lintasan peluru dengan hambatan udara.  
-- Perbandingan antara gerak ideal (tanpa hambatan) dan gerak dengan drag.  
-- Variasi lintasan berdasarkan sudut tembak dan koefisien drag.
+- Grafik (Percepatan dan waktu)(Kecepatan dan Waktu)(Posisi dan Waktu)  
+- Variasi Grafik berdasarkan Interaksi Interaktif (Massa Benda dan Gaya Total) yang dapat di ubah ubah
 
