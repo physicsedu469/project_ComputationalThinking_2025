@@ -42,7 +42,13 @@ $$ \frac{dv}{dt} = -\frac{k}{m}x $$
 
 Gerak ini menghasilkan **osilasi harmonik sederhana**, yaitu gerak periodik yang berulang-ulang.
 
-(https://colab.research.google.com/github/physicsedu469/project_ComputationalThinking_2025/blob/main/07_ResiHapitri_06111282328019_OsilasiPegas/Simulasi_Osilasi_Pegas.ipynb)
+
+## Cara Menjalankan File .ipynb di google Colab
+1. Klik tombol **Open in Colab** berikut.
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/physicsedu469/project_ComputationalThinking_2025/blob/main/07_ResiHapitri_06111282328019_OsilasiPegas/Simulasi_Osilasi_Pegas%20(1).ipynb)
+3. Notebook akan terbuka di Google Colab.  
+4. Jalankan sel-sel secara berurutan untuk melihat simulasi.  
+5. Anda dapat mengubah parameter (konstanta pegas, massa benda, posisi awal, kecepatan awal, dt = 0.01, t_max)
 
 ## Hasil Output
 Notebook akan menampilkan:
