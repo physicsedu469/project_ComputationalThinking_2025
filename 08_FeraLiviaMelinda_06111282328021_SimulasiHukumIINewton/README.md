@@ -38,4 +38,5 @@ yang menunjukkan bahwa percepatan adalah respon langsung dari benda terhadap gay
 Notebook akan menampilkan:
 - Grafik (Percepatan dan waktu)(Kecepatan dan Waktu)(Posisi dan Waktu)  
 - Variasi Grafik berdasarkan Interaksi Interaktif (Massa Benda dan Gaya Total) yang dapat di ubah ubah
+- Kesimpulan Hasil Simulasi
 
