@@ -16,7 +16,7 @@ Simulasi dilakukan secara numerik menggunakan metode time-stepping, sehingga per
 4. Melatih keterampilan penggunaan colab/Jupyter Notebook dalam fisika          komputasi.
 
 ## File dalam Folder
-- `Gerak_Peluru_dengan_hambatan_udara.ipynb` → notebook berisi simulasi lengkap.
+- `HukumIINewton.ipynb` → notebook berisi simulasi lengkap.
 - `README.md` → penjelasan project.
 
 ## Penjelasan Fisis Singkat
