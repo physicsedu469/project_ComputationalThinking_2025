@@ -39,12 +39,6 @@ beraturan setiap selang waktu tertentu. Perubahan kecepatan yang teratur ini dis
 oleh percepatan \(a\), yang dapat bernilai positif (benda dipercepat) maupun negatif
 (benda diperlambat atau mengalami perlambatan).
 
-Berbeda dengan gerak lurus beraturan (GLB) yang memiliki kecepatan konstan, GLBB
-menunjukkan hubungan yang lebih dinamis antara posisi, kecepatan, dan percepatan.
-Perubahan kecepatan dan posisi dalam GLBB tidak dipengaruhi oleh gaya hambatan
-atau faktor eksternal lain, sehingga model matematisnya dapat dianalisis secara
-langsung menggunakan persamaan kinematika, tanpa memerlukan metode numerik.
-
 Model gerak pada GLBB didasarkan pada tiga persamaan dasar berikut:
 
 ### **1. Percepatan konstan**
@@ -57,7 +51,7 @@ $$v(t) = v_0 + at$$
 $$
 x(t) = x_0 + v_0 t + \frac{1}{2} a t^2$$
 
-Persamaan pertama menunjukkan bahwa percepatan adalah laju perubahan kecepatan
+ Persamaan pertama menunjukkan bahwa percepatan adalah laju perubahan kecepatan
 terhadap waktu. Persamaan kedua menggambarkan bagaimana kecepatan meningkat atau
 menurun secara linear tergantung nilai percepatan. Persamaan ketiga menyatakan bahwa
 posisi benda berubah secara kuadratis terhadap waktu akibat adanya percepatan.
@@ -69,7 +63,7 @@ pada setiap waktu, serta memahami karakteristik dasar GLBB secara komputasional.
 
 Dalam simulasi komputasi, persamaan ini diselesaikan secara numerik menggunakan metode time stepping untuk memeriksa perubahan posisi dan kecepatan dari waktu ke waktu.## Cara Menjalankan File .ipynb di google Colab
 1. Klik tombol **Open in Colab** berikut.
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/physicsedu469/project_ComputationalThinking_2025/blob/main/00_Ani_xxxx_Contoh/gerakPeluru_drag.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UxTldETp4vArC3Up2YuDz8I-31d4RAmX?usp=sharing)
 3. Notebook akan terbuka di Google Colab.  
 4. Jalankan sel-sel secara berurutan untuk melihat simulasi.  
 5. Anda dapat mengubah parameter (kecepatan awal, sudut tembak, koefisien drag) dan mengamati perubahan lintasan.
@@ -82,8 +76,4 @@ Notebook akan menampilkan:
 -Perbandingan beberapa kondisi GLBB, misalnya:
 
  a. percepatan positif vs percepatan negatif,
- b. kecepatan awal berbeda,
-
-posisi awal berbeda.
-
-Variasi grafik berdasarkan perubahan parameter, seperti percepatan, kecepatan awal, atau langkah waktu, sehingga terlihat bagaimana dinamika GLBB berbeda dengan tiap konfigurasi.
+ b. kecepatan awal berbeda,posisi awal berbeda.Variasi grafik berdasarkan perubahan parameter, seperti percepatan, kecepatan awal, atau langkah waktu, sehingga terlihat bagaimana dinamika GLBB berbeda dengan tiap konfigurasi.
