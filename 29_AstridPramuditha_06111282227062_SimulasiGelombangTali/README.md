@@ -1,4 +1,4 @@
-# Simulasi Gelombang Bunyi
+# Simulasi Gelombang Tali
 
 ## Identitas
 - Nama  : Astrid Pramuditha
