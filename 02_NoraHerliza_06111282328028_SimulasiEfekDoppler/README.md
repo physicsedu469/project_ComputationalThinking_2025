@@ -51,4 +51,5 @@ Jika $v_{\text{rad}}(t) < 0$, sumber secara radial menjauhi pengamat sehingga $f
 ## Hasil Output 
 Notebook akan menampilkan:
 - Grafik lintasan sumber dengan gerak melengkung  
-- Grafik perubahan frekuensi yang teramati 
+- Grafik perubahan frekuensi teramati terhadap waktu
+- Grafik perubahan frekuensi teramati terhadap posisi sumber
