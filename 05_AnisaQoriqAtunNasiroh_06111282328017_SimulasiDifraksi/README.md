@@ -24,7 +24,7 @@ Ketika cahaya melewati celah, maka digunkan rumus:
 
 $$I_{\text{single}} = I_0 \left(\frac{\sin \beta}{\beta}\right)^2, \quad \beta = \frac{\pi a x}{\lambda L}$$
 
-$$I_{\text{multi}} =\left(\frac{\sin(N\alpha)}{\sin(\alpha)}\right)^2, \quad \alpha = \frac{\lambda L \pi}{dx}$$
+$$I_{\text{multi}} =\left(\frac{\sin(N\alpha)}{\sin(\alpha)}\right)^2, \quad \alpha = \frac{\pi d x }{\lambda L}$$
 
 sehingga didapat $I_{\text{total}}$
 
