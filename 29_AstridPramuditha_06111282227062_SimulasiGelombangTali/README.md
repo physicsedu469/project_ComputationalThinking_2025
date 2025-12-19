@@ -18,7 +18,7 @@ Notebook ini menampilkan grafik gelombang, animasi propagasi gelombang, serta pa
 
 ## File dalam Folder
 - `simulasi_gelombang_tali.ipynb` → notebook berisi simulasi lengkap.
-- README.md → penjelasan project.
+- `README.md` → penjelasan project.
 
 ## Penjelasan Fisis Singkat
 Gelombang pada tali adalah gelombang mekanik yang merambat sepanjang tali. Pada simulasi ini kita akan memvisualisasikan:
