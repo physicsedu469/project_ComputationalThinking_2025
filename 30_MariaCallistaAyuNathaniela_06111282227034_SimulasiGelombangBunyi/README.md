@@ -42,3 +42,8 @@ Interpretasi fisis:
 - ⁠Animasi propagasi gelombang bunyi terhadap waktu.
 - ⁠Simulasi interaktif perubahan frekuensi dan amplitudo.
 - ⁠Visualisasi perubahan bentuk gelombang saat frekuensi dan amplitudo diubah.
+
+## Catatan
+Notebook ini menggunakan ipywidgets (slider interaktif).
+Fitur interaktif berjalan dengan baik di Google Colab,
+namun tidak dapat ditampilkan langsung di GitHub.
