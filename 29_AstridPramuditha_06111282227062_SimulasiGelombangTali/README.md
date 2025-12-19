@@ -17,7 +17,7 @@ Notebook ini menampilkan grafik gelombang, animasi propagasi gelombang, serta pa
 5. ⁠Membangun pemahaman intuitif tentang gelombang transversal melalui simulasi numerik).
 
 ## File dalam Folder
-- ` → notebook berisi simulasi lengkap.
+- `simulasi_gelombang_tali.ipynb' → notebook berisi simulasi lengkap.
 - README.md → penjelasan project.
 
 ## Penjelasan Fisis Singkat
